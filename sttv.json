@@ -5,7 +5,7 @@
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
       "email_feedback_and_report": "yourmail@gmail.com",
-      "show_related_channels": false,
+      "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
@@ -45,19 +45,24 @@
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
+	  
       "interstitial_ad_interval": 3,
+	  
       "native_ad_index_list": 3,
       "native_ad_index_grid2": 2,
       "native_ad_index_grid3": 6,
       "native_ad_interval_list": 6,
       "native_ad_interval_grid2": 7,
       "native_ad_interval_grid3": 10,
+	  
       "native_ad_style": "medium",
       "native_ad_channel_details_position": "top",
+	  
       "show_banner_ad_home": false,
-      "show_banner_ad_channel_details": false,
+      "show_banner_ad_channel_details": true,
       "show_banner_ad_category_details": true,
       "show_banner_ad_search": true,
+	  
       "show_interstitial_ad_channel_list": true,
       "show_interstitial_ad_channel_details": true,
       "show_native_ad_channel_list": true,
