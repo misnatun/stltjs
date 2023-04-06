@@ -3,8 +3,10 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
-      "email_feedback_and_report": "yourmail@gmail.com",
+	  
+      "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/misnatun/channels/main/privacy_policy.html",
+      "email_feedback_and_report": "oka.yuniantika174@gmail.com",
+	  
       "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
@@ -55,12 +57,12 @@
       "native_ad_interval_grid2": 7,
       "native_ad_interval_grid3": 10,
 	  
-      "native_ad_style": "medium",
+      "native_ad_style": "large",
       "native_ad_channel_details_position": "top",
 	  
       "show_banner_ad_home": false,
       "show_banner_ad_channel_details": true,
-      "show_banner_ad_category_details": true,
+      "show_banner_ad_category_details": false,
       "show_banner_ad_search": true,
 	  
       "show_interstitial_ad_channel_list": true,
