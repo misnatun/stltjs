@@ -5,11 +5,11 @@
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
       "email_feedback_and_report": "yourmail@gmail.com",
-      "show_related_channels": false,
+      "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
-      "enable_vpn_access": true,
+      "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
       "landscape_mode_as_default_player_orientation": true,
       "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
@@ -46,7 +46,7 @@
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
 	  
-      "interstitial_ad_interval": 5,
+      "interstitial_ad_interval": 3,
 	  
       "native_ad_index_list": 3,
       "native_ad_index_grid2": 2,
@@ -951,7 +951,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AD:84:81&stream=27897&extension=ts&play_token=NmuehNdUXG"
+		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=27897&extension=ts&play_token=uHAtHKx9BX"
 	},
 	{
 		"id": 408,
@@ -960,7 +960,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AD:84:81&stream=27896&extension=ts&play_token=ZsyIJt4jcS"
+		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=27896&extension=ts&play_token=ekpMijxTGM"
 	},
 	{
 		"id": 407,
@@ -969,7 +969,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AD:84:81&stream=27894&extension=ts&play_token=N5pGiS26Ad"
+		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=27894&extension=ts&play_token=Nq01rutuVa"
 	},
 	{
 		"id": 406,
@@ -978,7 +978,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AD:84:81&stream=27895&extension=ts&play_token=8CVGHB3z4T"
+		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=27895&extension=ts&play_token=9tWN8rCopZ"
 	},
 	{
 		"id": 405,
@@ -3804,7 +3804,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://ott-4k.com:80/play/live.php?mac=00:1A:79:cb:45:59&stream=179647&extension=ts&play_token=epo68EYfyc"
+		"streaming_url": "http://dns20.xyz:80/play/live.php?mac=00:1A:79:55:B8:2A&stream=63390&extension=ts&play_token=2WcDzTvvXm"
 	},
 	{
 		"id": 91,
