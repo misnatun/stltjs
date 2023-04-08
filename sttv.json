@@ -324,7 +324,7 @@
 	
 	
 	{
-		"id": 585,
+		"id": 590,
 		"title": "SONY SPORTS 5 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -333,7 +333,7 @@
 		"streaming_url": "https://lin-gd-001-cf.slivcdn.com/out/v1/79396cc3e885493e950b24dcddceaeda/master_7.m3u8?hdntl=exp=1680953434~acl=*~hmac=fb96de28414a5e83c5c0c702477e9441f949c822ec1b2867e8d4477e80c95b93&originpath=/linear/hls/pb/event/Sle_TR8rQIuZHWzshEXYjQ/stream/01550b11-035c-453c-80e0-27dca6851979:TPE2/variant/d36bf8f514f89a676ea85aee2e2f11aa/bandwidth/4704510.m3u8"
 	},
 	{
-		"id": 584,
+		"id": 589,
 		"title": "SONY SPORTS 4 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -342,7 +342,7 @@
 		"streaming_url": "https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master_3.m3u8?hdntl=exp=1680953402~acl=*~hmac=76e70011069b42943f5dafddb78d3f982a4f7b48bfb0cac92640196fa0ebd6ff&originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/544a6d99-3ab9-406d-9a8b-a28fdc27337c:TPE2/variant/e8a1c585479787b9de070decd49eba91/bandwidth/4957889.m3u8"
 	},
 	{
-		"id": 583,
+		"id": 588,
 		"title": "SONY SPORTS 3 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -351,7 +351,7 @@
 		"streaming_url": "https://lin-gd-001-cf.slivcdn.com/out/v1/0ee967e6ce5c4d10a3cf86078e91a674/master_2.m3u8?hdntl=exp=1680953380~acl=*~hmac=525aef92234beb26e1425f0d1f95c7c9f2ac43967e85149e92a8323dc6c038cd&originpath=/linear/hls/pb/event/ltsCG7TBSCSDmyq0rQtvSA/stream/784684c5-a2fe-42cb-93ef-71b4767bf50f:TPE2/variant/672720a940e7d1943cf17667e38a9a91/bandwidth/4704761.m3u8"
 	},
 	{
-		"id": 582,
+		"id": 587,
 		"title": "SONY SPORTS 2 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -360,7 +360,7 @@
 		"streaming_url": "https://lin-gd-001-cf.slivcdn.com/out/v1/a2fb6f8486d9435bb34ee74a6e076b09/master_1.m3u8?hdntl=exp=1680953345~acl=*~hmac=d98a80a4e00e73600edac9c0acb5beaccb9dd321c810fc127dd0c11541328015&originpath=/linear/hls/pb/event/V9h-iyOxRiGp41ppQScDSQ/stream/5a8b975a-8fd0-44d6-b53d-e4a18998e29c:SIN2/variant/282461b345f822b32de896910f770920/bandwidth/4704977.m3u8"
 	},
 	{
-		"id": 581,
+		"id": 586,
 		"title": "SONY SPORTS 1 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -371,34 +371,43 @@
 	
 	
 	{
-		"id": 580,
-		"title": "FOX SPORTS FHD",
+		"id": 585,
+		"title": "FOX SPORTS 1 FHD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://51.222.43.170:8001/victoolivo/ortiz2104/276614"
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/58704"
 	},
 	{
-		"id": 579,
+		"id": 584,
 		"title": "FOX SPORTS 2 FHD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://51.222.43.170:8001/victoolivo/ortiz2104/301440"
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/58706"
 	},
 	{
-		"id": 578,
+		"id": 583,
+		"title": "FOX SPORTS 3 FHD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/58705"
+	},
+	{
+		"id": 582,
 		"title": "FOX SPORTS PREMIUM FHD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://51.222.43.170:8001/victoolivo/ortiz2104/301428"
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/58744"
 	},
 	{
-		"id": 577,
+		"id": 581,
 		"title": "ESPN FHD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
@@ -406,14 +415,42 @@
 		"user_agent": "",
 		"streaming_url": "http://51.222.43.170:8001/victoolivo/ortiz2104/301441"
 	},
+	
 	{
-		"id": 576,
-		"title": "TUDN FHD",
+		"id": 580,
+		"title": "TUDN MX HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://51.222.43.170:8001/victoolivo/ortiz2104/272088"
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/126360"
+	},
+	{
+		"id": 579,
+		"title": "TUDN USA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/126356"
+	},
+	{
+		"id": 578,
+		"title": "ZONA TUDN USA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/126363"
+	},
+	{
+		"id": 577,
+		"title": "ZONA TUDN HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/126355"
 	},
 	
 	{
@@ -497,7 +534,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Sports",
 		"user_agent": "",
-		"streaming_url": "http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34634"
+		"streaming_url": "http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/58732"
 	},
 	{
 		"id": 567,
