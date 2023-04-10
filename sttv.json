@@ -463,6 +463,123 @@
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id": 624,
+		"title": "MY MOVIES X HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
+	},
+	{
+		"id": 623,
+		"title": "MY TV5 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8"
+	},
+	{
+		"id": 622,
+		"title": "MY RED BULL HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+	},
+	{
+		"id": 621,
+		"title": "MY RTB GO LIVE HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+	},
+	{
+		"id": 620,
+		"title": "MY RTB ANEKA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8"
+	},
+	{
+		"id": 619,
+		"title": "MY SELANGOR TV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022"
+	},
+	{
+		"id": 618,
+		"title": "MY TV IKIM HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8"
+	},
+	{
+		"id": 617,
+		"title": "MY DUNIA SINEMA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+	},
+	{
+		"id": 616,
+		"title": "MY RTB SUKMAINDRA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8"
+	},
+	{
+		"id": 615,
+		"title": "MY DIDIK TV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8"
+	},
+	{
+		"id": 614,
+		"title": "MY CINEMA WORLD HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.37/dr9445/h/h04/index.m3u8"
+	},
+	{
+		"id": 613,
+		"title": "MY SUKAN RTM HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
+		"category": "Malaysia",
+		"user_agent": "",
+		"streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+	},
+	
+	
 	{
 		"id": 612,
 		"title": "QATAR TV 2 HD",
@@ -2770,7 +2887,7 @@
 	},
 	{
 		"id": 360,
-		"title": "MY TV8 HD",
+		"title": "MY 8TV HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Malaysia",
@@ -3360,7 +3477,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Malaysia",
 		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/143023.ts"
+		"streaming_url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"
 	},
 	{
 		"id": 294,
@@ -3918,7 +4035,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Malaysia",
 		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/143065.ts"
+		"streaming_url": "https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8"
 	},
 	{
 		"id": 232,
@@ -5664,7 +5781,7 @@
 		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/9c20d816-b271-11ed-8b6a-b82a72d63267/dr9445/h/h04/01.m3u8"
+		"streaming_url": "http://210.210.155.35/dr9445/h/h04/index.m3u8"
 	},
 	{
 		"id": 38,
