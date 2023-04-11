@@ -7,7 +7,7 @@
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/misnatun/channels/main/privacy_policy.html",
       "email_feedback_and_report": "oka.yuniantika174@gmail.com",
 	  
-      "show_related_channels": false,
+      "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
@@ -57,7 +57,7 @@
       "native_ad_interval_grid2": 7,
       "native_ad_interval_grid3": 10,
 	  
-      "native_ad_style": "medium",
+      "native_ad_style": "large",
       "native_ad_channel_details_position": "top",
 	  
       "show_banner_ad_home": false,
