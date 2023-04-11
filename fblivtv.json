@@ -23,7 +23,7 @@
       "ad_status": 1,
 	  
       "main_ad": "applovin_max",
-      "backup_ad": "admob",
+      "backup_ad": "ironsource",
 	  
       "admob_banner_unit_id": "ca-app-pub-3618565418558268/2935667793x",
       "admob_interstitial_unit_id": "ca-app-pub-3618565418558268/3557935585x",
@@ -53,7 +53,7 @@
       "applovin_banner_zone_id": "a2ee22c035ed6bd3",
       "applovin_interstitial_zone_id": "6006c30bea8067ae",
 	  
-      "ironsource_app_key": "85460dcd",
+      "ironsource_app_key": "19806b9f5",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
 	  
