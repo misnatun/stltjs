@@ -165,12 +165,12 @@
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     },
-	
-    {
-      "id": 10,
-      "name": "Local Indonesia",
+	{
+      "id": 9,
+      "name": "Malaysia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     },
+    
 	{
       "id": 11,
       "name": "Knowledge",
@@ -214,11 +214,6 @@
 	{
       "id": 19,
       "name": "Australia",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
-    },
-	{
-      "id": 20,
-      "name": "Bein Sport",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     }
 
@@ -1622,33 +1617,8 @@
 		"user_agent": "",
 		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=51136&extension=ts&play_token=X6wd8I3ZQg"
 	},
-	{
-		"id": 457,
-		"title": "PINGFONG",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8"
-	},
-	{
-		"id": 456,
-		"title": "YUMMY",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "https://firstmedia-xumo.amagi.tv:443/indexR1080p.m3u8"
-	},
-	{
-		"id": 455,
-		"title": "BONAPPETIT",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "https://bonappetit-roku-us.amagi.tv:443/playlist404p.m3u8"
-	},
+	
+	
 	{
 		"id": 454,
 		"title": "MMA TV",
@@ -1676,24 +1646,7 @@
 		"user_agent": "",
 		"streaming_url": "https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/playlist.m3u8"
 	},
-	{
-		"id": 451,
-		"title": "K NIGHTMARE",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "https://d12hafsmzbqmzo.cloudfront.net:443/playlist540Pl.m3u8"
-	},
-	{
-		"id": 450,
-		"title": "GUSTO TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "https://gustotv-samsung-gb.samsung.wurl.tv:443/089025e8e07edc059504b28ffd897267.m3u8"
-	},
+	
 	{
 		"id": 449,
 		"title": "MTV BIGGEST",
@@ -1781,7 +1734,7 @@
 		"title": "TH BEIN SPORT 2",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Bein Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=115809&extension=ts&play_token=TdNkPNfQi9"
 	},
@@ -1790,7 +1743,7 @@
 		"title": "TH BEIN SPORT 1",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Bein Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:15:b8:50&stream=115807&extension=ts&play_token=H9nO3ZAzEr"
 	},
@@ -3937,15 +3890,7 @@
 		"user_agent": "",
 		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=237&extension=ts&play_token=Iaf8Oc2UBE"
 	},
-	{
-		"id": 193,
-		"title": "UK SKY CINEMA ANIMATION",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=243&extension=ts&play_token=9WX1WmLHma"
-	},
+	
 	
 	{
 		"id": 176,
@@ -4073,15 +4018,7 @@
 		"user_agent": "",
 		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115728&extension=ts&play_token=Irjnn6JAs0"
 	},
-	{
-		"id": 162,
-		"title": "ES BABY TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3232&extension=ts&play_token=8jLFAfumuT"
-	},
+	
 	{
 		"id": 161,
 		"title": "ES CANAL PANDA",
@@ -4136,15 +4073,7 @@
 		"user_agent": "",
 		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=10:27:be:05:82:d6&stream=473006&extension=ts&play_token=6TzXaetaGX"
 	},
-	{
-		"id": 155,
-		"title": "ES FOX HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3200&extension=ts&play_token=hvLzzKyG6B"
-	},
+	
 	{
 		"id": 154,
 		"title": "ES EVISION",
@@ -4163,15 +4092,7 @@
 		"user_agent": "",
 		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=9886&extension=ts&play_token=8v0LjXKiTB"
 	},
-	{
-		"id": 152,
-		"title": "ES TV3 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=18563&extension=ts&play_token=dDFzF2ZKcd"
-	},
+	
 	{
 		"id": 151,
 		"title": "ES SOL MUSICA",
@@ -4217,24 +4138,7 @@
 		"user_agent": "",
 		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=4387&extension=ts&play_token=6RYxbfDiaT"
 	},
-	{
-		"id": 146,
-		"title": "ES LA 2 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=65068&extension=ts&play_token=ypZtCVwKRM"
-	},
-	{
-		"id": 145,
-		"title": "ES LA 1 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3166&extension=ts&play_token=4BCpImQ287"
-	},
+	
 	{
 		"id": 144,
 		"title": "ES NEOX HD",
@@ -4480,42 +4384,9 @@
 		"user_agent": "",
 		"streaming_url": "http://210.210.155.37/x6bnqe/s/s35/index.m3u8"
 	},
-	{
-		"id": 55,
-		"title": "DENS FOOD CHANNEL",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cooking",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.37/x6bnqe/s/s38/index.m3u8"
-	},
-	{
-		"id": 54,
-		"title": "HIJRAH TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Local Indonesia",
-		"user_agent": "",
-		"streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
-	},
-	{
-		"id": 53,
-		"title": "ANIPLUS",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/5cbb8e82-b271-11ed-8b6a-b82a72d63267/dr9445/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD"
-	},
-	{
-		"id": 52,
-		"title": "MY KIDZ",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cartoons",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/462591cc-b271-11ed-aeaf-b82a72d63267/x6bnqe/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD"
-	},
+	
+	
+	
 	{
 		"id": 51,
 		"title": "HITS",
@@ -4794,6 +4665,141 @@
 		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://210.210.155.37/session/aa7172b4-b27f-11ed-99fb-c81f66f89318/uq2663/h/h223/S4/mnf.m3u8"
+	},
+	
+	
+	
+	
+	
+	{
+		"id": 58,
+		"title": "YUMMY",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "https://firstmedia-xumo.amagi.tv:443/indexR1080p.m3u8"
+	},
+	{
+		"id": 57,
+		"title": "BONAPPETIT",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "https://bonappetit-roku-us.amagi.tv:443/playlist404p.m3u8"
+	},
+	{
+		"id": 56,
+		"title": "K NIGHTMARE",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "https://d12hafsmzbqmzo.cloudfront.net:443/playlist540Pl.m3u8"
+	},
+	{
+		"id": 55,
+		"title": "GUSTO TV",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "https://gustotv-samsung-gb.samsung.wurl.tv:443/089025e8e07edc059504b28ffd897267.m3u8"
+	},
+	{
+		"id": 54,
+		"title": "ES TV3 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=18563&extension=ts&play_token=dDFzF2ZKcd"
+	},
+	{
+		"id": 53,
+		"title": "ES LA 2 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=65068&extension=ts&play_token=ypZtCVwKRM"
+	},
+	{
+		"id": 52,
+		"title": "ES LA 1 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3166&extension=ts&play_token=4BCpImQ287"
+	},
+	{
+		"id": 51,
+		"title": "DENS FOOD CHANNEL",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cooking",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.37/x6bnqe/s/s38/index.m3u8"
+	},
+	
+	
+	
+	
+	{
+		"id": 6,
+		"title": "ES FOX HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3200&extension=ts&play_token=hvLzzKyG6B"
+	},
+	{
+		"id": 5,
+		"title": "ES BABY TV",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3232&extension=ts&play_token=8jLFAfumuT"
+	},
+	{
+		"id": 4,
+		"title": "UK SKY CINEMA ANIMATION",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=243&extension=ts&play_token=9WX1WmLHma"
+	},
+	{
+		"id": 3,
+		"title": "PINGFONG",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8"
+	},
+	{
+		"id": 2,
+		"title": "ANIPLUS",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/5cbb8e82-b271-11ed-8b6a-b82a72d63267/dr9445/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD"
+	},
+	{
+		"id": 1,
+		"title": "MY KIDZ",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/462591cc-b271-11ed-aeaf-b82a72d63267/x6bnqe/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD"
 	}
 	
   ]
