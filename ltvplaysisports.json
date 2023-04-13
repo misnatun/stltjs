@@ -59,11 +59,11 @@
 	  
       "interstitial_ad_interval": 3,
 	  
-      "native_ad_index_list": 3,
+      "native_ad_index_list": 2,
       "native_ad_index_grid2": 2,
-      "native_ad_index_grid3": 6,
-      "native_ad_interval_list": 6,
-      "native_ad_interval_grid2": 7,
+      "native_ad_index_grid3": 3,
+      "native_ad_interval_list": 8,
+      "native_ad_interval_grid2": 9,
       "native_ad_interval_grid3": 10,
 	  
       "native_ad_style": "large",
