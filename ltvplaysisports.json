@@ -67,7 +67,7 @@
       "native_ad_interval_grid3": 10,
 	  
       "native_ad_style": "large",
-      "native_ad_channel_details_position": "top",
+      "native_ad_channel_details_position": "bottom",
 	  
       "show_banner_ad_home": false,
       "show_banner_ad_channel_details": true,
