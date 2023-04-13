@@ -136,11 +136,6 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     },
 	{
-      "id": 3,
-      "name": "Spain",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
-    },
-	{
       "id": 4,
       "name": "Premier Leaguage",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
@@ -182,11 +177,6 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     },
 	{
-      "id": 13,
-      "name": "Fight Sport",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
-    },
-	{
       "id": 14,
       "name": "Event",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
@@ -209,11 +199,6 @@
 	{
       "id": 18,
       "name": "Cannal+ Myanmar",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
-    },
-	{
-      "id": 19,
-      "name": "Australia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png"
     }
 
@@ -697,24 +682,7 @@
 	},
 	
 	
-	{
-		"id": 603,
-		"title": "NL BBC TWO HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:70:39:2a&stream=526977&extension=ts&play_token=sCaio4zL9O"
-	},
-	{
-		"id": 602,
-		"title": "NL BBC ONE HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:70:39:2a&stream=526976&extension=ts&play_token=UbKjlYaYqt"
-	},
+	
 	
 	{
 		"id": 601,
@@ -1383,129 +1351,13 @@
 	
 	
     
-	{
-		"id": 483,
-		"title": "ARENA SPORT 6",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8025&extension=ts&play_token=86T7BqDyPq"
-	},
-	{
-		"id": 482,
-		"title": "ARENA SPORT 5",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8645&extension=ts&play_token=MjAkR1un4p"
-	},
-	{
-		"id": 481,
-		"title": "ARENA SPORT 4",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8017&extension=ts&play_token=PrEJ9FgbJO"
-	},
-	{
-		"id": 380,
-		"title": "ARENA SPORT 3",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8019&extension=ts&play_token=eZ2Oux8Vj3"
-	},
-	{
-		"id": 479,
-		"title": "ARENA SPORT 2",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8021&extension=ts&play_token=RiagPiLio8"
-	},
-	{
-		"id": 478,
-		"title": "ARENA SPORT 1",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8023&extension=ts&play_token=KbQykpShWE"
-	},
-	{
-		"id": 477,
-		"title": "MAHAR HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
-	},
-	{
-		"id": 476,
-		"title": "MCS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8"
-	},
-	{
-		"id": 475,
-		"title": "CHANNEL 1 ME HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1254244721.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIzIDY6NTY6MDIgUE0maGFzaF92YWx1ZT1WWG4zL3VDazY4V0xSTFQxNU1zaVFnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1"
-	},
-	{
-		"id": 474,
-		"title": "FORTUNE TV HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8"
-	},
-	{
-		"id": 473,
-		"title": "MRTV-4 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"
-	},
-	{
-		"id": 472,
-		"title": "CHANNEL 7 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941744&extension=ts&play_token=Npr02Zx9hJ"
-	},
-	{
-		"id": 471,
-		"title": "CHANNEL K HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
-	},
+	
 	{
 		"id": 470,
 		"title": "IMPACK HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Fight Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "https://d2tuwvs0ja335j.cloudfront.net/hls/720plo/playlist.m3u8"
 	},
@@ -1563,51 +1415,7 @@
 		"user_agent": "",
 		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=20866&extension=ts&play_token=ztjAWnOl3t"
 	},
-	{
-		"id": 463,
-		"title": "HU RTL KLUB HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=85398&extension=ts&play_token=9iQG7CqrCF"
-	},
-	{
-		"id": 462,
-		"title": "HU RTL GOLD HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=83475&extension=ts&play_token=Vqvs7J8yoN"
-	},
-	{
-		"id": 461,
-		"title": "HU PRIME HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=83469&extension=ts&play_token=sSTy4AvCfY"
-	},
-	{
-		"id": 460,
-		"title": "HU FASHION TV HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=85414&extension=ts&play_token=Ilz1lmGfyO"
-	},
-	{
-		"id": 459,
-		"title": "IT REAL TIME HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=51026&extension=ts&play_token=m4tu4yXD5e"
-	},
+	
 	{
 		"id": 458,
 		"title": "IT SPORT ITALIA HD",
@@ -1624,7 +1432,7 @@
 		"title": "MMA TV",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Fight Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8"
 	},
@@ -1633,7 +1441,7 @@
 		"title": "HARD KNOCK",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Fight Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "https://d3uyzhwvmemdyf.cloudfront.net:443/scheduler/scheduleMaster/109/variant/22099464.m3u8"
 	},
@@ -1642,7 +1450,7 @@
 		"title": "FTF SPORT",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Fight Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/playlist.m3u8"
 	},
@@ -1665,21 +1473,13 @@
 		"user_agent": "",
 		"streaming_url": "https://linear-136.frequency.stream:443/dist/localnow/136/hls/master/playlist_1280x720_m.m3u8"
 	},
-	{
-		"id": 447,
-		"title": "YTV CHANNEL HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Cannal+ Myanmar",
-		"user_agent": "",
-		"streaming_url": "http://183.89.246.119:8881/play/a081/index.m3u8"
-	},
+	
 	{
 		"id": 446,
 		"title": "FIGHT BOX HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
-		"category": "Fight Sport",
+		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8"
 	},
@@ -2396,159 +2196,8 @@
 		"user_agent": "",
 		"streaming_url": "https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8"
 	},
-	{
-		"id": 359,
-		"title": "AU ABC ME NATIONAL",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5456.ts"
-	},
-	{
-		"id": 358,
-		"title": "AU LIFE SYDNEY",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5454.ts"
-	},
-	{
-		"id": 357,
-		"title": "AU 9 GEM SYDNEY",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5453.ts"
-	},
-	{
-		"id": 356,
-		"title": "AU 9 SYDNEY",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5452.ts"
-	},
-	{
-		"id": 355,
-		"title": "AU SKY RACING 1",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5450.ts"
-	},
-	{
-		"id": 354,
-		"title": "AU BEIN SPORTS 3",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5445.ts"
-	},
-	{
-		"id": 353,
-		"title": "AU BEIN SPORTS 2",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5444.ts"
-	},
-	{
-		"id": 352,
-		"title": "AU BEIN SPORTS 1",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5443.ts"
-	},
-	{
-		"id": 351,
-		"title": "AU REDBULL YV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5441.ts"
-	},
-	{
-		"id": 350,
-		"title": "AU SKY RACING 2",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/5437.ts"
-	},
-	{
-		"id": 349,
-		"title": "AU SBS FOOD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4769.ts"
-	},
-	{
-		"id": 348,
-		"title": "AU SBS VICELAND",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4768.ts"
-	},
-	{
-		"id": 347,
-		"title": "AU SBS WORLD MOVIES",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4767.ts"
-	},
-	{
-		"id": 346,
-		"title": "AU SBS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4766.ts"
-	},
-	{
-		"id": 345,
-		"title": "AU 10 SHAKE",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4763.ts"
-	},
-	{
-		"id": 344,
-		"title": "AU ABC HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4760.ts"
-	},
-	{
-		"id": 343,
-		"title": "AU ABC COMEDY",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Australia",
-		"user_agent": "",
-		"streaming_url": "http://humiptv.live:8080/live/989097/989097/4758.ts"
-	},
+	
+	
 	{
 		"id": 342,
 		"title": "MY WWE NETWORK",
@@ -2999,384 +2648,8 @@
 		"user_agent": "",
 		"streaming_url": "http://humiptv.live:8080/live/989097/989097/143018.ts"
 	},
-	{
-		"id": 292,
-		"title": "ES 24 HORAS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48642&extension=ts&play_token=YD5JN70eOA"
-	},
-	{
-		"id": 291,
-		"title": "ES ALCARRIA TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=100193&extension=ts&play_token=JvBdVv0LOP"
-	},
-	{
-		"id": 290,
-		"title": "ES 25 TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=92795&extension=ts&play_token=IOO2JPDBLF"
-	},
-	{
-		"id": 289,
-		"title": "ES ARAGON HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48657&extension=ts&play_token=DHAqG2m1XH"
-	},
-	{
-		"id": 288,
-		"title": "ES BLAZE HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48674&extension=ts&play_token=EKg8tUMozM"
-	},
-	{
-		"id": 287,
-		"title": "ES BOING HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48675&extension=ts&play_token=2KKfVuiPWN"
-	},
-	{
-		"id": 286,
-		"title": "ES CALLE 13 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48681&extension=ts&play_token=ovabpXgO32"
-	},
-	{
-		"id": 285,
-		"title": "ES CAZY & PESCA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48692&extension=ts&play_token=rkVxTAkxB5"
-	},
-	{
-		"id": 284,
-		"title": "ES CLAN HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48693&extension=ts&play_token=5r8dutkfwH"
-	},
-	{
-		"id": 283,
-		"title": "ES CLASSICA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48695&extension=ts&play_token=Uxe1hmdzZx"
-	},
-	{
-		"id": 282,
-		"title": "ES COCINA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48697&extension=ts&play_token=Qnkdry7Gps"
-	},
-	{
-		"id": 281,
-		"title": "ES COMEDY CENTRAL",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48699&extension=ts&play_token=ZBfhVdAFrU"
-	},
-	{
-		"id": 280,
-		"title": "ES DECASA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48705&extension=ts&play_token=ctQpgZWDG9"
-	},
-	{
-		"id": 279,
-		"title": "ES DIVINITY HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48712&extension=ts&play_token=G3R9mHBNcy"
-	},
-	{
-		"id": 278,
-		"title": "ES ETB SAT TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=100182&extension=ts&play_token=KWtsKwPpot"
-	},
-	{
-		"id": 277,
-		"title": "ES FDF HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48725&extension=ts&play_token=eNTdjyVKkB"
-	},
-	{
-		"id": 276,
-		"title": "ES EL GARAGE TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=100178&extension=ts&play_token=XS9a6L0GgP"
-	},
-	{
-		"id": 275,
-		"title": "ES GOL TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48733&extension=ts&play_token=QnTFOKxBD3"
-	},
-	{
-		"id": 274,
-		"title": "ES IBERALIA TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=100141&extension=ts&play_token=kqIv3NJExn"
-	},
-	{
-		"id": 273,
-		"title": "ES LA CUANTO HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48750&extension=ts&play_token=hlbzMkTJZQ"
-	},
-	{
-		"id": 272,
-		"title": "ES MOLA TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=92826&extension=ts&play_token=vgFM4CoVNO"
-	},
-	{
-		"id": 271,
-		"title": "ES MTV HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48774&extension=ts&play_token=PtnhSL7M71"
-	},
-	{
-		"id": 270,
-		"title": "ES BABY TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48658&extension=ts&play_token=BkUWu2Wx2N"
-	},
-	{
-		"id": 269,
-		"title": "ES CANAL PANDA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48850&extension=ts&play_token=qpgC9bMHvF"
-	},
-	{
-		"id": 268,
-		"title": "ES ODISEA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48848&extension=ts&play_token=RQli7B6UiW"
-	},
-	{
-		"id": 267,
-		"title": "ES HISTORIA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48735&extension=ts&play_token=93wsyyF6pK"
-	},
-	{
-		"id": 266,
-		"title": "ES NAT GEO WILD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48840&extension=ts&play_token=FlQWiTBuGb"
-	},
-	{
-		"id": 265,
-		"title": "ES COSMO",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://vip.lotusnet.digital:19051/Valon/y2R91qI101/20830"
-	},
-	{
-		"id": 264,
-		"title": "ES AMC CRIME",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=473006&extension=ts&play_token=FsXG1lkFwv"
-	},
-	{
-		"id": 263,
-		"title": "ES FOX HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48730&extension=ts&play_token=VQNAVX5Lgl"
-	},
-	{
-		"id": 262,
-		"title": "ES TNT HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48868&extension=ts&play_token=dvcVwcRb52"
-	},
-	{
-		"id": 261,
-		"title": "ES CARACOL TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=100166&extension=ts&play_token=TYJah7sc8j"
-	},
-	{
-		"id": 260,
-		"title": "ES TV3 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=92838&extension=ts&play_token=2o1BVf7wMH"
-	},
-	{
-		"id": 259,
-		"title": "ES TCM HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48863&extension=ts&play_token=UvCQ9GE8Q4"
-	},
-	{
-		"id": 258,
-		"title": "ES NOVA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48847&extension=ts&play_token=BB5OUJYJ2b"
-	},
-	{
-		"id": 257,
-		"title": "ES MEGA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48775&extension=ts&play_token=HfgGnZ6Xzs"
-	},
-	{
-		"id": 256,
-		"title": "ES TELECINCO",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48882&extension=ts&play_token=H42m2uDgX0"
-	},
-	{
-		"id": 255,
-		"title": "ES ATENA 3",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48656&extension=ts&play_token=5NFL1ayQHG"
-	},
-	{
-		"id": 254,
-		"title": "ES LA 2 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48746&extension=ts&play_token=VZ3HSOFMe5"
-	},
-	{
-		"id": 253,
-		"title": "ES LA 1 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48744&extension=ts&play_token=nJoDVQ5FYf"
-	},
-	{
-		"id": 252,
-		"title": "ES NEOX HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:02:01:01&stream=48842&extension=ts&play_token=RyhMivXzQc"
-	},
-	{
-		"id": 251,
-		"title": "ES SOMOS",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Spain",
-		"user_agent": "",
-		"streaming_url": "http://vip.lotusnet.digital:19051/Valon/y2R91qI101/20865"
-	},
+	
+	
 	{
 		"id": 250,
 		"title": "CA DAZN 16",
@@ -3629,51 +2902,7 @@
 		"user_agent": "",
 		"streaming_url": "http://vipuser.club:8080/live/sukansimsek/simsek123/68197.m3u8"
 	},
-	{
-		"id": 222,
-		"title": "UK GB NEWS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=401&extension=ts&play_token=WOVly7Nqvm"
-	},
-	{
-		"id": 221,
-		"title": "UK CNN INTERNATIONAL",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=400&extension=ts&play_token=EExqwZNkES"
-	},
-	{
-		"id": 220,
-		"title": "UK BBC NEWS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=403&extension=ts&play_token=e0dmAMDPDz"
-	},
-	{
-		"id": 219,
-		"title": "UK EURO NEWS HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=408&extension=ts&play_token=ZCR9pzyzP9"
-	},
-	{
-		"id": 218,
-		"title": "UK BLOOMBERG HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=395&extension=ts&play_token=m09A1mTiDe"
-	},
+	
 	{
 		"id": 217,
 		"title": "UK VIAPLAY SPORTS 2",
@@ -3991,15 +3220,7 @@
 		"user_agent": "",
 		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=10:27:be:05:82:d6&stream=48648&extension=ts&play_token=wO4bCZ4LxJ"
 	},
-	{
-		"id": 165,
-		"title": "TH WORKPOINT HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115825&extension=ts&play_token=pYnmIcHI25"
-	},
+	
 	{
 		"id": 164,
 		"title": "TH PPTV HD",
@@ -4009,15 +3230,7 @@
 		"user_agent": "",
 		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115501&extension=ts&play_token=1oEJb5nMfP"
 	},
-	{
-		"id": 163,
-		"title": "TH MONO29 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115728&extension=ts&play_token=Irjnn6JAs0"
-	},
+	
 	
 	{
 		"id": 161,
@@ -4074,24 +3287,7 @@
 		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=10:27:be:05:82:d6&stream=473006&extension=ts&play_token=6TzXaetaGX"
 	},
 	
-	{
-		"id": 154,
-		"title": "ES EVISION",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=19936&extension=ts&play_token=gUUuweRYJT"
-	},
-	{
-		"id": 153,
-		"title": "ES CARACOL TV",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=9886&extension=ts&play_token=8v0LjXKiTB"
-	},
+	
 	
 	{
 		"id": 151,
@@ -4120,24 +3316,7 @@
 		"user_agent": "",
 		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=19935&extension=ts&play_token=tOfwxh6j9w"
 	},
-	{
-		"id": 148,
-		"title": "ES TELECINCO",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=4371&extension=ts&play_token=FgUjCeJDQy"
-	},
-	{
-		"id": 147,
-		"title": "ES ATENA 3",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=4387&extension=ts&play_token=6RYxbfDiaT"
-	},
+	
 	
 	{
 		"id": 144,
@@ -4157,15 +3336,7 @@
 		"user_agent": "",
 		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=27671&extension=ts&play_token=Q147QW9awJ"
 	},
-	{
-		"id": 142,
-		"title": "PT CNN PORTUGAL",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=1726&extension=ts&play_token=J7J1xxy2bN"
-	},
+	
 	{
 		"id": 141,
 		"title": "PT TVCINE TOP",
@@ -4202,51 +3373,8 @@
 		"user_agent": "",
 		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=1698&extension=ts&play_token=ThrIqVVAvb"
 	},
-	{
-		"id": 137,
-		"title": "PT FITNESS HOME",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Health",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356762&extension=ts&play_token=nn8Sl1YDRI"
-	},
-	{
-		"id": 136,
-		"title": "PT FITNESS YOGA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Health",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356761&extension=ts&play_token=J6khqPP8Ju"
-	},
-	{
-		"id": 135,
-		"title": "PT OPTO NOVELAS",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356760&extension=ts&play_token=ixClAVmwYO"
-	},
-	{
-		"id": 134,
-		"title": "PT OPTO ENTERTAINMENT",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356759&extension=ts&play_token=BKey0KZvyw"
-	},
-	{
-		"id": 133,
-		"title": "PT OPTO COMEDIA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Entertainment",
-		"user_agent": "",
-		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356758&extension=ts&play_token=UAzVS1s8ym"
-	},
+	
+	
 	{
 		"id": 132,
 		"title": "PT OPTO SERIES",
@@ -4549,87 +3677,7 @@
 		"user_agent": "",
 		"streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/motorvision.m3u8"
 	},
-	{
-		"id": 33,
-		"title": "CNA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/05920654-b280-11ed-99fb-c81f66f89318/uq2663/h/h29/01.m3u8"
-	},
-	{
-		"id": 32,
-		"title": "NHK WORLD JAPAN",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
-	},
-	{
-		"id": 31,
-		"title": "AL JAZEERA ARABIC",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/5e2222cc-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s16/01.m3u8"
-	},
-	{
-		"id": 30,
-		"title": "TRT WORLD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/31ab660e-b280-11ed-99fb-c81f66f89318/uq2663/h/h156/S4/mnf.m3u8"
-	},
-	{
-		"id": 29,
-		"title": "WION",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.37/session/3c5f9fd4-b280-11ed-99fb-c81f66f89318/uq2663/h/h91/S4/mnf.m3u8"
-	},
-	{
-		"id": 28,
-		"title": "UA",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.37/session/4fd9574e-b280-11ed-99fb-c81f66f89318/uq2663/h/h101/S4/mnf.m3u8"
-	},
-	{
-		"id": 27,
-		"title": "AL JAZEERA ENGLISH",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/245444f8-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s17/02.m3u8"
-	},
-	{
-		"id": 26,
-		"title": "CCTV 4",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/764806fa-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s19/01.m3u8"
-	},
-	{
-		"id": 25,
-		"title": "FRANCE 24",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "News",
-		"user_agent": "",
-		"streaming_url": "http://210.210.155.35/session/803524ea-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s22/01.m3u8"
-	},
+	
 	{
 		"id": 24,
 		"title": "TV5MONDE",
@@ -4665,6 +3713,453 @@
 		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://210.210.155.37/session/aa7172b4-b27f-11ed-99fb-c81f66f89318/uq2663/h/h223/S4/mnf.m3u8"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id": 264,
+		"title": "ARENA SPORT 6",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8025&extension=ts&play_token=86T7BqDyPq"
+	},
+	{
+		"id": 263,
+		"title": "ARENA SPORT 5",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8645&extension=ts&play_token=MjAkR1un4p"
+	},
+	{
+		"id": 262,
+		"title": "ARENA SPORT 4",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8017&extension=ts&play_token=PrEJ9FgbJO"
+	},
+	{
+		"id": 261,
+		"title": "ARENA SPORT 3",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8019&extension=ts&play_token=eZ2Oux8Vj3"
+	},
+	{
+		"id": 260,
+		"title": "ARENA SPORT 2",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8021&extension=ts&play_token=RiagPiLio8"
+	},
+	{
+		"id": 259,
+		"title": "ARENA SPORT 1",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://panel.sotu.ws:80/play/live.php?mac=00:1a:79:4e:fc:D0&stream=8023&extension=ts&play_token=KbQykpShWE"
+	},
+	{
+		"id": 258,
+		"title": "MAHAR HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+	},
+	{
+		"id": 257,
+		"title": "MCS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8"
+	},
+	{
+		"id": 256,
+		"title": "CHANNEL 1 ME HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1254244721.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIzIDY6NTY6MDIgUE0maGFzaF92YWx1ZT1WWG4zL3VDazY4V0xSTFQxNU1zaVFnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1"
+	},
+	{
+		"id": 255,
+		"title": "FORTUNE TV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8"
+	},
+	{
+		"id": 254,
+		"title": "MRTV-4 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"
+	},
+	{
+		"id": 253,
+		"title": "CHANNEL 7 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941744&extension=ts&play_token=Npr02Zx9hJ"
+	},
+	{
+		"id": 252,
+		"title": "CHANNEL K HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+	},
+	{
+		"id": 251,
+		"title": "YTV CHANNEL HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cannal+ Myanmar",
+		"user_agent": "",
+		"streaming_url": "http://183.89.246.119:8881/play/a081/index.m3u8"
+	},
+	
+	
+	
+	
+	
+	{
+		"id": 217,
+		"title": "UK GB NEWS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=401&extension=ts&play_token=WOVly7Nqvm"
+	},
+	{
+		"id": 216,
+		"title": "UK CNN INTERNATIONAL",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=400&extension=ts&play_token=EExqwZNkES"
+	},
+	{
+		"id": 215,
+		"title": "UK BBC NEWS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=403&extension=ts&play_token=e0dmAMDPDz"
+	},
+	{
+		"id": 214,
+		"title": "UK EURO NEWS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=408&extension=ts&play_token=ZCR9pzyzP9"
+	},
+	{
+		"id": 213,
+		"title": "UK BLOOMBERG HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=395&extension=ts&play_token=m09A1mTiDe"
+	},
+	{
+		"id": 212,
+		"title": "ES TELECINCO",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=4371&extension=ts&play_token=FgUjCeJDQy"
+	},
+	{
+		"id": 211,
+		"title": "ES ATENA 3",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=4387&extension=ts&play_token=6RYxbfDiaT"
+	},
+	{
+		"id": 210,
+		"title": "PT CNN PORTUGAL",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=1726&extension=ts&play_token=J7J1xxy2bN"
+	},
+	{
+		"id": 209,
+		"title": "CNA",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/05920654-b280-11ed-99fb-c81f66f89318/uq2663/h/h29/01.m3u8"
+	},
+	{
+		"id": 208,
+		"title": "NHK WORLD JAPAN",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+	},
+	{
+		"id": 207,
+		"title": "AL JAZEERA ARABIC",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/5e2222cc-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s16/01.m3u8"
+	},
+	{
+		"id": 206,
+		"title": "TRT WORLD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/31ab660e-b280-11ed-99fb-c81f66f89318/uq2663/h/h156/S4/mnf.m3u8"
+	},
+	{
+		"id": 205,
+		"title": "WION",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.37/session/3c5f9fd4-b280-11ed-99fb-c81f66f89318/uq2663/h/h91/S4/mnf.m3u8"
+	},
+	{
+		"id": 204,
+		"title": "UA",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.37/session/4fd9574e-b280-11ed-99fb-c81f66f89318/uq2663/h/h101/S4/mnf.m3u8"
+	},
+	{
+		"id": 203,
+		"title": "AL JAZEERA ENGLISH",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/245444f8-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s17/02.m3u8"
+	},
+	{
+		"id": 202,
+		"title": "CCTV 4",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/764806fa-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s19/01.m3u8"
+	},
+	{
+		"id": 201,
+		"title": "FRANCE 24",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "News",
+		"user_agent": "",
+		"streaming_url": "http://210.210.155.35/session/803524ea-b280-11ed-a06a-c81f66f89318/qwr9ew/s/s22/01.m3u8"
+	},
+	
+	
+	
+	
+	
+	{
+		"id": 152,
+		"title": "PT FITNESS HOME",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Health",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356762&extension=ts&play_token=nn8Sl1YDRI"
+	},
+	{
+		"id": 151,
+		"title": "PT FITNESS YOGA",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Health",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356761&extension=ts&play_token=J6khqPP8Ju"
+	},
+	
+	
+	
+	
+	
+	{
+		"id": 114,
+		"title": "NL BBC TWO HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:70:39:2a&stream=526977&extension=ts&play_token=sCaio4zL9O"
+	},
+	{
+		"id": 113,
+		"title": "NL BBC ONE HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:70:39:2a&stream=526976&extension=ts&play_token=UbKjlYaYqt"
+	},
+	{
+		"id": 112,
+		"title": "HU RTL KLUB HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=85398&extension=ts&play_token=9iQG7CqrCF"
+	},
+	{
+		"id": 111,
+		"title": "HU RTL GOLD HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=83475&extension=ts&play_token=Vqvs7J8yoN"
+	},
+	{
+		"id": 110,
+		"title": "HU PRIME HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=83469&extension=ts&play_token=sSTy4AvCfY"
+	},
+	{
+		"id": 109,
+		"title": "HU FASHION TV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=85414&extension=ts&play_token=Ilz1lmGfyO"
+	},
+	{
+		"id": 108,
+		"title": "IT REAL TIME HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:EB:C5&stream=51026&extension=ts&play_token=m4tu4yXD5e"
+	},
+	{
+		"id": 107,
+		"title": "TH WORKPOINT HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115825&extension=ts&play_token=pYnmIcHI25"
+	},
+	{
+		"id": 106,
+		"title": "TH MONO29 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115728&extension=ts&play_token=Irjnn6JAs0"
+	},
+	{
+		"id": 105,
+		"title": "ES EVISION",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=19936&extension=ts&play_token=gUUuweRYJT"
+	},
+	{
+		"id": 104,
+		"title": "ES CARACOL TV",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=9886&extension=ts&play_token=8v0LjXKiTB"
+	},
+	{
+		"id": 103,
+		"title": "PT OPTO NOVELAS",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356760&extension=ts&play_token=ixClAVmwYO"
+	},
+	{
+		"id": 102,
+		"title": "PT OPTO ENTERTAINMENT",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356759&extension=ts&play_token=BKey0KZvyw"
+	},
+	{
+		"id": 101,
+		"title": "PT OPTO COMEDIA",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=356758&extension=ts&play_token=UAzVS1s8ym"
 	},
 	
 	
@@ -4743,6 +4238,7 @@
 		"user_agent": "",
 		"streaming_url": "http://210.210.155.37/x6bnqe/s/s38/index.m3u8"
 	},
+	
 	
 	
 	
