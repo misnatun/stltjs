@@ -2174,7 +2174,7 @@
 	
 	
 	{
-		"id": 757,
+		"id": 756,
 		"title": "XING XONG TV HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2183,25 +2183,7 @@
 		"streaming_url": "http://rr3.dens.tv/s/s94/index2.m3u8"
 	},	
 	{
-		"id": 756,
-		"title": "CINESTAR FANTASY HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Movies",
-		"user_agent": "",
-		"streaming_url": "http://212.200.113.134:25003"
-	},
-	{
-		"id": 757,
-		"title": "CINESTAR COMEDY HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Movies",
-		"user_agent": "",
-		"streaming_url": "http://212.200.113.135:25525"
-	},
-	{
-		"id": 756,
+		"id": 755,
 		"title": "SCTV9 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2210,22 +2192,13 @@
 		"streaming_url": "https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8"
 	},
 	{
-		"id": 755,
+		"id": 754,
 		"title": "SCTV13 LADY HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Movies",
 		"user_agent": "",
 		"streaming_url": "https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8"
-	},
-	{
-		"id": 754,
-		"title": "BRTV HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Movies",
-		"user_agent": "",
-		"streaming_url": "http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8"
 	},
 	{
 		"id": 753,
