@@ -208,7 +208,61 @@
   
   "channels": [
   
-  
+	
+	{
+		"id": 2010,
+		"title": "LIVE SPORTS 10 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://204.12.247.162:8080/premium466/mono.m3u8"
+	},
+	{
+		"id": 2009,
+		"title": "LIVE SPORTS 9 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://204.12.247.162:8080/premium35/mono.m3u8"
+	},
+	{
+		"id": 2008,
+		"title": "LIVE SPORTS 8 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://204.12.247.162:8080/premium581/mono.m3u8"
+	},
+	{
+		"id": 2007,
+		"title": "LIVE SPORTS 7 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://204.12.247.162:8080/premium431/mono.m3u8"
+	},
+	{
+		"id": 2006,
+		"title": "LIVE SPORTS 6 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://213.7.193.54:4000/play/a005/78721980.m3u8"
+	},
+	{
+		"id": 2005,
+		"title": "LIVE SPORTS 5 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist_w877809324_b1692000.m3u8?uid=s2c526m574z5s4l5h4"
+	},	
 	{
 		"id": 2004,
 		"title": "LIVE SPORTS 4 HD",
