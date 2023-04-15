@@ -690,7 +690,7 @@
 	
 	
 	{
-		"id": 918,
+		"id": 917,
 		"title": "ES DAZN 4 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -699,7 +699,7 @@
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB8sfUgyg-IKwzb4ZQR9FtxB"
 	},
 	{
-		"id": 917,
+		"id": 916,
 		"title": "ES DAZN 3 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -708,7 +708,7 @@
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB8fjEfhzCOCHi1JvsAh3Mir"
 	},
 	{
-		"id": 916,
+		"id": 915,
 		"title": "ES DAZN 2 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -717,7 +717,7 @@
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB9NBnCLJGlgANLSpayDnQDV"
 	},
 	{
-		"id": 915,
+		"id": 914,
 		"title": "ES DAZN 1 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -726,7 +726,7 @@
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxfmgfKpkJYycYmtqsQDjHSJr1drv0gNnNThh-a58WuP"
 	},
 	{
-		"id": 914,
+		"id": 913,
 		"title": "MOVISTAR LA LIGA HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -735,22 +735,13 @@
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAFX20VwYdFLCD7uCkG8RFj8"
 	},
 	{
-		"id": 913,
+		"id": 912,
 		"title": "MOVISTAR LIGA CHAMPEON HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAHWg7Q7a8-6xwgdXfRX7hhc"
-	},
-	{
-		"id": 912,
-		"title": "SCTV17 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8"
 	},
 	{
 		"id": 911,
@@ -880,7 +871,7 @@
 	},
 	{
 		"id": 897,
-		"title": "SCTV 15 HD",
+		"title": "SCTV15 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Sports",
@@ -889,7 +880,7 @@
 	},
 	{
 		"id": 896,
-		"title": "SCTV 17 HD",
+		"title": "SCTV17 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Sports",
@@ -1013,6 +1004,8 @@
 		"user_agent": "",
 		"streaming_url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
 	},
+	
+	
 	{
 		"id": 882,
 		"title": "FOX SPORTS 1 FHD",
