@@ -207,6 +207,44 @@
   
   
   "channels": [
+  
+  
+	{
+		"id": 2004,
+		"title": "LIVE SPORTS 4 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://golive.yn.lt/live/bola/05.m3u8"
+	},
+	{
+		"id": 2003,
+		"title": "LIVE SPORTS 3 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://golive.yn.lt/live/bola/04.m3u8"
+	},
+	{
+		"id": 2002,
+		"title": "LIVE SPORTS 2 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://golive.yn.lt/live/bola/03.m3u8"
+	},
+	{
+		"id": 2001,
+		"title": "LIVE SPORTS 1 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://golive.yn.lt/live/bola/01.m3u8"
+	},	
 	
 	
 	
@@ -649,8 +687,9 @@
 	
 	
 	
+	
 	{
-		"id": 912,
+		"id": 920,
 		"title": "ESPN 3 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -659,7 +698,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0je"
 	},
 	{
-		"id": 911,
+		"id": 919,
 		"title": "ESPN 2 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -668,7 +707,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0id"
 	},
 	{
-		"id": 910,
+		"id": 918,
 		"title": "ESPN HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -677,7 +716,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0ie"
 	},
 	{
-		"id": 909,
+		"id": 917,
 		"title": "FOX SPORT 3 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -686,7 +725,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0ik"
 	},
 	{
-		"id": 908,
+		"id": 916,
 		"title": "FOX SPORT 2 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -695,13 +734,87 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0k3"
 	},	
 	{
-		"id": 907,
+		"id": 915,
 		"title": "FOX SPORT 1 HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Sports",
 		"user_agent": "",
 		"streaming_url": "http://45.179.140.242:8000/play/a0jo"
+	},
+	
+	
+	{
+		"id": 914,
+		"title": "MOVISTAR LA LIGA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAFX20VwYdFLCD7uCkG8RFj8"
+	},
+	{
+		"id": 913,
+		"title": "MOVISTAR LIGA CHAMPEON HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAHWg7Q7a8-6xwgdXfRX7hhc"
+	},
+	{
+		"id": 912,
+		"title": "SCTV17 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8"
+	},
+	{
+		"id": 911,
+		"title": "VTV3 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8"
+	},
+	{
+		"id": 910,
+		"title": "VTV2 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "http://live-ali2.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
+	},
+	{
+		"id": 909,
+		"title": "FOX SPORT 3 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd"
+	},
+	{
+		"id": 908,
+		"title": "FOX SPORT 2 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd"
+	},
+	{
+		"id": 907,
+		"title": "FOX SPORT HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Sports",
+		"user_agent": "",
+		"streaming_url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd"
 	},
 	{
 		"id": 906,
@@ -2114,7 +2227,7 @@
 	
 	
 	{
-		"id": 750,
+		"id": 763,
 		"title": "AXN HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2123,7 +2236,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0j9"
 	},
 	{
-		"id": 749,
+		"id": 762,
 		"title": "CINEMAX HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2132,7 +2245,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0j7"
 	},
 	{
-		"id": 748,
+		"id": 761,
 		"title": "SONY HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2141,7 +2254,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0j8"
 	},
 	{
-		"id": 747,
+		"id": 760,
 		"title": "SPACE HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2150,7 +2263,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0ja"
 	},
 	{
-		"id": 746,
+		"id": 759,
 		"title": "TCM HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2159,7 +2272,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0k0"
 	},
 	{
-		"id": 745,
+		"id": 758,
 		"title": "TNT HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2168,16 +2281,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0k1"
 	},
 	{
-		"id": 744,
-		"title": "FOX SPORT 3 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
-		"description": "",
-		"category": "Movies",
-		"user_agent": "",
-		"streaming_url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd"
-	},
-	{
-		"id": 743,
+		"id": 757,
 		"title": "XING XONG TV HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -2185,32 +2289,133 @@
 		"user_agent": "",
 		"streaming_url": "http://rr3.dens.tv/s/s94/index2.m3u8"
 	},
+	
+	
 	{
-		"id": 742,
-		"title": "FOX SPORT 3 HD",
+		"id": 756,
+		"title": "CINESTAR FANTASY HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd"
+		"streaming_url": "http://212.200.113.134:25003"
+	},
+	{
+		"id": 757,
+		"title": "CINESTAR COMEDY HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://212.200.113.135:25525"
+	},
+	{
+		"id": 756,
+		"title": "SCTV9 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8"
+	},
+	{
+		"id": 755,
+		"title": "SCTV13 LADY HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8"
+	},
+	{
+		"id": 754,
+		"title": "BRTV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8"
+	},
+	{
+		"id": 753,
+		"title": "BGTV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://103.90.220.236/bgtvlive/tv1live.m3u8"
+	},
+	{
+		"id": 752,
+		"title": "DRTV HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://103.90.220.236/drtlive/tv1live-transmux.m3u8"
+	},
+	{
+		"id": 751,
+		"title": "TELECINE PREMIUM HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://limetv.me/live/4627val/608516/90379.m3u8"
+	},
+	{
+		"id": 751,
+		"title": "TELECINE POPICA HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://45.230.96.42:80/distv/@distv/658"
+	},
+	{
+		"id": 750,
+		"title": "TELECINE ACTION HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://mains.services:2086/XeWJSrPwJ7/6702795/92642"
+	},
+	{
+		"id": 749,
+		"title": "SBT RS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "http://acsb.sh:80/renan.diniz@live.com1/Br695814/75028.ts"
+	},
+	{
+		"id": 742,
+		"title": "KIDSFLIX US HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Movies",
+		"user_agent": "",
+		"streaming_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
 	},
 	{
 		"id": 741,
-		"title": "FOX SPORT 2 HD",
+		"title": "COLORS IN HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd"
+		"streaming_url": "http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8"
 	},
 	{
 		"id": 740,
-		"title": "FOX SPORT HD",
+		"title": "SONY KAL US HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Movies",
 		"user_agent": "",
-		"streaming_url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd"
+		"streaming_url": "https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8"
 	},
 	{
 		"id": 739,
@@ -3775,6 +3980,15 @@
 	
 	
 	{
+		"id": 406,
+		"title": "UK V2BEAT HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Music",
+		"user_agent": "",
+		"streaming_url": "https://abr.de1se01.v2beat.live/playlist.m3u8"
+	},
+	{
 		"id": 405,
 		"title": "MTV YO! HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
@@ -4317,7 +4531,7 @@
 	
 	
 	{
-		"id": 116,
+		"id": 117,
 		"title": "UNIVERSAL TV HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4326,13 +4540,24 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0jw"
 	},
 	{
-		"id": 115,
+		"id": 116,
 		"title": "WARNER HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Entertainment",
 		"user_agent": "",
 		"streaming_url": "http://45.179.140.242:8000/play/a0ia"
+	},
+	
+	
+	{
+		"id": 115,
+		"title": "CTS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Entertainment",
+		"user_agent": "",
+		"streaming_url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8"
 	},
 	{
 		"id": 114,
@@ -4543,7 +4768,7 @@
 	
 	
 	{
-		"id": 12,
+		"id": 18,
 		"title": "CARTOON NETWORK HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4552,7 +4777,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0h7"
 	},
 	{
-		"id": 11,
+		"id": 17,
 		"title": "DISCOVERY KIDS HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4561,7 +4786,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0i5"
 	},
 	{
-		"id": 10,
+		"id": 16,
 		"title": "DISNEY CHANNEL HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4570,7 +4795,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0i7"
 	},
 	{
-		"id": 9,
+		"id": 15,
 		"title": "DISNEY JR HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4579,7 +4804,7 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0i3"
 	},
 	{
-		"id": 8,
+		"id": 14,
 		"title": "NICK JR HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
@@ -4588,13 +4813,68 @@
 		"streaming_url": "http://45.179.140.242:8000/play/a0jc"
 	},
 	{
-		"id": 7,
+		"id": 13,
 		"title": "NICKELODEON HD",
 		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
 		"description": "",
 		"category": "Cartoons",
 		"user_agent": "",
 		"streaming_url": "http://45.179.140.242:8000/play/a0jt"
+	},
+	
+	{
+		"id": 12,
+		"title": "MBC 3 HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
+	},
+	{
+		"id": 11,
+		"title": "AKARAM KIDS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
+	},
+	{
+		"id": 10,
+		"title": "TG JUNIOR HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---"
+	},
+	{
+		"id": 9,
+		"title": "TOON GOOGLES HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36"
+	},
+	{
+		"id": 8,
+		"title": "BKIDS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+	},
+	{
+		"id": 7,
+		"title": "PBS KIDS HD",
+		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_2.png",
+		"description": "",
+		"category": "Cartoons",
+		"user_agent": "",
+		"streaming_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
 	},
 	{
 		"id": 6,
