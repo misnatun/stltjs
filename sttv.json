@@ -845,24 +845,7 @@
 		"user_agent": "",
 		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxfmgfKpkJYycYmtqsQDjHQbGi0cLIF0r3ncteNQEajo"
 	},
-	{
-		"id": 628,
-		"title": "MOVISTAR LA LIGA HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAFX20VwYdFLCD7uCkG8RFj8"
-	},
-	{
-		"id": 627,
-		"title": "MOVISTAR LIGA CHAMPEON HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxxxodKCLHLqNy5KM-M9xAHWg7Q7a8-6xwgdXfRX7hhc"
-	},
+	
 	
 	
 	{
@@ -1136,42 +1119,9 @@
 		"user_agent": "",
 		"streaming_url": "https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8"
 	},
-	{
-		"id": 597,
-		"title": "VIX LA LIGA 4 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8"
-	},
-	{
-		"id": 596,
-		"title": "VIX LA LIGA 3 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8"
-	},
-	{
-		"id": 595,
-		"title": "VIX LA LIGA 2 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8"
-	},
-	{
-		"id": 594,
-		"title": "VIX LA LIGA 1 HD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8"
-	},
+	
+
+  
 	{
 		"id": 593,
 		"title": "VIX HD",
@@ -5415,15 +5365,9 @@
 		"user_agent": "",
 		"streaming_url": "http://superbits.tv:2095/play/live.php?mac=10:27:BE:2d:a7:34&stream=39412&extension=ts&play_token=tXHgH4MBdJ"
 	},
-	{
-		"id": 125,
-		"title": "SS LALIGA FHD",
-		"image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-		"description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-		"category": "Sports",
-		"user_agent": "",
-		"streaming_url": "http://superbits.tv:2095/play/live.php?mac=10:27:BE:2d:a7:34&stream=39406&extension=ts&play_token=E2PFpAxRW7"
-	},
+	
+
+
 	{
 		"id": 124,
 		"title": "SS GRANDSTAND FHD",
