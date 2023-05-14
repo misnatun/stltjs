@@ -3889,15 +3889,9 @@
     "user_agent": "",
     "streaming_url": "http://humiptv.live:8080/live/989097/989097/143059.ts"
   },
-  {
-    "id": 300,
-    "title": "MY ASTRO CRICKET",
-    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-    "description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-    "category": "Malaysia",
-    "user_agent": "",
-    "streaming_url": "http://humiptv.live:8080/live/989097/989097/143056.ts"
-  },
+  
+
+  
   {
     "id": 299,
     "title": "MY ASTRO AURA",
@@ -4726,15 +4720,9 @@
     "user_agent": "",
     "streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=308&extension=ts&play_token=649Z3n3UaR"
   },
-  {
-    "id": 207,
-    "title": "UK SKY SPORTS CRICKET",
-    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-    "description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-    "category": "Sports",
-    "user_agent": "",
-    "streaming_url": "http://keycdn.co:80/play/live.php?mac=00:1A:79:0F:2D:B4&stream=305&extension=ts&play_token=FgznUy2hVL"
-  },
+
+
+
   {
     "id": 206,
     "title": "UK SKY SPORTS FOOTBALL",
