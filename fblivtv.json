@@ -2775,7 +2775,7 @@
   },
   
 
-  
+
   {
     "id": 423,
     "title": "TR BEIN SERIES DRAMA HD",
@@ -5450,15 +5450,6 @@
 
 
   {
-    "id": 124,
-    "title": "SS GRANDSTAND FHD",
-    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-    "description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-    "category": "Sports",
-    "user_agent": "",
-    "streaming_url": "http://superbits.tv:2095/play/live.php?mac=10:27:BE:2d:a7:34&stream=39409&extension=ts&play_token=U4XLtdalrF"
-  },
-  {
     "id": 123,
     "title": "SS FOOTBALL FHD",
     "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
@@ -5530,15 +5521,10 @@
     "user_agent": "",
     "streaming_url": "http://superbits.tv:2095/play/live.php?mac=10:27:BE:2d:a7:34&stream=28095&extension=ts&play_token=R3ty0ghraN"
   },
-  {
-    "id": 115,
-    "title": "FLOW SPORT 1 HD",
-    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-    "description": "Football Live TV is a TV Streaming Application that provides World TV channels with a wide selection of categories such as Sports, Movies, Entertainment and many more. Don't forget to support by giving a 5 star rating and your best review. Football Live TV is specially presented for loyal viewers who always look forward to the best programs from World Famous TV Television Stations. Make sure the internet connection is well connected so you can watch TV online via live streaming TV with clear picture and audio quality.",
-    "category": "Sports",
-    "user_agent": "",
-    "streaming_url": "http://superbits.tv:2095/play/live.php?mac=10:27:BE:2d:a7:34&stream=28096&extension=ts&play_token=YfV3Hlfdqb"
-  },
+  
+
+
+
   {
     "id": 114,
     "title": "AR BEIN SPORTS 3 PREMIUM",
