@@ -20,7 +20,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
 	  
       "main_ad": "applovin_max",
       "backup_ad": "applovin_discovery",
