@@ -564,7 +564,15 @@
   
   
   
-  
+  {
+    "id": 1104,
+    "title": "LIVE EVENT 5 FHD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
+    "description": "",
+    "category": "Event",
+    "user_agent": "",
+    "streaming_url": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+  },
   {
     "id": 1103,
     "title": "LIVE EVENT 4 FHD",
@@ -607,6 +615,15 @@
   
 
 
+  {
+    "id": 1061,
+    "title": "LIVE EVENT 12 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
+    "description": "",
+    "category": "Event",
+    "user_agent": "",
+    "streaming_url": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+  },
   {
     "id": 1060,
     "title": "LIVE EVENT 11 HD",
