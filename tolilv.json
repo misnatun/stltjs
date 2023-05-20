@@ -22,13 +22,13 @@
     {
       "ad_status": 1,
 	  
-      "main_ad": "admob",
-      "backup_ad": "applovin_discovery",
+      "main_ad": "applovin_max",
+      "backup_ad": "admob",
 	  
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_unit_id": "ca-app-pub-3618565418558268/7523997105",
+      "admob_interstitial_unit_id": "ca-app-pub-3618565418558268/7401526415",
+      "admob_native_unit_id": "ca-app-pub-3618565418558268/4268096610",
+      "admob_app_open_unit_id": "ca-app-pub-3618565418558268/7497180594",
 	  
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
@@ -45,10 +45,10 @@
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
 	  
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_unit_id": "37f9d8cc90aef07c",
+      "applovin_interstitial_unit_id": "d6a032067ce79f54",
+      "applovin_native_manual_unit_id": "8dd4012e49b770ef",
+      "applovin_open_ad_unit_id": "abaa83558545f521",
 	  
       "applovin_banner_zone_id": "a2ee22c035ed6bd3",
       "applovin_interstitial_zone_id": "6006c30bea8067ae",
@@ -240,7 +240,7 @@
     "category": "Local Indonesia",
     "user_agent": "",
     "streaming_url": "http://kusnadipepenk.github.io/campeign/tvone.m3u8"
-  }
+  },
   {
     "id": 7,
     "title": "METRO TV",
