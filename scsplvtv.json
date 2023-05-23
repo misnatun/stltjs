@@ -25,10 +25,10 @@
       "main_ad": "fan",
       "backup_ad": "applovin_max",
 	  
-      "admob_banner_unit_id": "ca-app-pub-3618565418558268/3177548241",
-      "admob_interstitial_unit_id": "ca-app-pub-3618565418558268/9898869261",
-      "admob_native_unit_id": "ca-app-pub-3618565418558268/2004067374",
-      "admob_app_open_unit_id": "ca-app-pub-3618565418558268/9551384901",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
 	  
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
