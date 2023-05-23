@@ -22,22 +22,22 @@
     {
       "ad_status": 1,
 	  
-      "main_ad": "applovin_max",
-      "backup_ad": "admob",
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
 	  
-      "admob_banner_unit_id": "ca-app-pub-3618565418558268/7523997105",
-      "admob_interstitial_unit_id": "ca-app-pub-3618565418558268/7401526415",
-      "admob_native_unit_id": "ca-app-pub-3618565418558268/4268096610",
-      "admob_app_open_unit_id": "ca-app-pub-3618565418558268/7497180594",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
 	  
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
 	  
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901557382611",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901594049274",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901660715934",
+      "fan_banner_unit_id": "514688620731971_514688967398603",
+      "fan_interstitial_unit_id": "514688620731971_514689020731931",
+      "fan_native_unit_id": "514688620731971_514689164065250",
 	  
       "startapp_app_id": "0",
 	  
