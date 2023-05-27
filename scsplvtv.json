@@ -130,98 +130,103 @@
       "name": "Wilds & Planet",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
+    {
       "id": 2,
+      "name": "World League",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+  {
+      "id": 3,
       "name": "Sports",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 3,
+  {
+      "id": 4,
       "name": "Spain",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 4,
+  {
+      "id": 5,
       "name": "Premier Leaguage",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 5,
+  {
+      "id": 6,
       "name": "News",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 6,
+  {
+      "id": 7,
       "name": "Muslim",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 7,
+  {
+      "id": 8,
       "name": "Music",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 8,
+  {
+      "id": 9,
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 9,
+  {
+      "id": 10,
       "name": "Malaysia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Local Indonesia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 11,
+  {
+      "id": 12,
       "name": "Knowledge",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 12,
+  {
+      "id": 13,
       "name": "Health",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 13,
+  {
+      "id": 14,
       "name": "Fight Sport",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 14,
+  {
+      "id": 15,
       "name": "Event",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 15,
+  {
+      "id": 16,
       "name": "Entertainment",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 16,
+  {
+      "id": 17,
       "name": "Cooking",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 17,
+  {
+      "id": 18,
       "name": "Cartoons",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 18,
+  {
+      "id": 19,
       "name": "Cannal+ Myanmar",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 19,
+  {
+      "id": 20,
       "name": "Australia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 20,
+  {
+      "id": 21,
       "name": "Bein Sport",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     }
@@ -235,6 +240,338 @@
 
 
 
+
+
+{
+    "id": 2036,
+    "title": "LIVE SPORTS 36 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8"
+  },
+  {
+    "id": 2035,
+    "title": "LIVE SPORTS 35 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
+  },
+  {
+    "id": 2034,
+    "title": "LIVE SPORTS 34 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://234f.pls45tv.site:80/tvsstv/tv.ss/123840"
+  },
+  {
+    "id": 2033,
+    "title": "LIVE SPORTS 33 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://sde.trp2021.com:80/tvsstv/tv.ss/123839"
+  },
+  {
+    "id": 2032,
+    "title": "LIVE SPORTS 32 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://234f.pls45tv.site:80/tvsstv/tv.ss/123837"
+  },
+  {
+    "id": 2031,
+    "title": "LIVE SPORTS 31 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://sde.trp2021.com:80/tvsstv/tv.ss/123835"
+  },
+  {
+    "id": 2030,
+    "title": "LIVE SPORTS 30 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://80ad567d.ottrast.com/iptv/SYBA4CKW5FBV5F/212/index.m3u8?utm_medium=social&utm_source=heylink.me"
+  },
+  {
+    "id": 2029,
+    "title": "LIVE SPORTS 29 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8"
+  },
+  {
+    "id": 2028,
+    "title": "LIVE SPORTS 28 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://173.225.246.25:8889/udp/239.203.20.153:4001"
+  },
+  {
+    "id": 2027,
+    "title": "LIVE SPORTS 27 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://173.225.246.25:8889/udp/239.203.20.132:4001"
+  },
+  {
+    "id": 2026,
+    "title": "LIVE SPORTS 26 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://173.225.246.25:8889/udp/239.203.20.149:4001"
+  },
+  {
+    "id": 2025,
+    "title": "LIVE SPORTS 25 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fbtv.m3u8"
+  },
+  {
+    "id": 2024,
+    "title": "LIVE SPORTS 24 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
+  },
+  {
+    "id": 2023,
+    "title": "LIVE SPORTS 23 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://api.new.livestream.com/accounts/UdinewsTV/events/Udinese/live.m3u8"
+  },
+  {
+    "id": 2022,
+    "title": "LIVE SPORTS 22 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8"
+  },
+  {
+    "id": 2021,
+    "title": "LIVE SPORTS 21 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8"
+  },
+  {
+    "id": 2020,
+    "title": "LIVE SPORTS 20 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://linear-193.frequency.stream/193/hls/master/playlist.m3u8"
+  },
+  {
+    "id": 2019,
+    "title": "LIVE SPORTS 19 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8"
+  },
+  {
+    "id": 2018,
+    "title": "LIVE SPORTS 18 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=tru"
+  },
+  {
+    "id": 2017,
+    "title": "LIVE SPORTS 17 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://234f.pls45tv.site:80/tvsstv/tv.ss/123834"
+  },
+  {
+    "id": 2016,
+    "title": "LIVE SPORTS 16 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+  },
+  {
+    "id": 2015,
+    "title": "LIVE SPORTS 15 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+  },
+  {
+    "id": 2014,
+    "title": "LIVE SPORTS 14 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
+  },
+  {
+    "id": 2013,
+    "title": "LIVE SPORTS 13 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://nl4.iptv.monster/play/134/94447FD31B88A87/video.m3u8"
+  },
+  
+  
+  {
+    "id": 2012,
+    "title": "LIVE SPORTS 12 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://sc.id-tv.kz/FHD_KHL_34_35.m3u8"
+  },
+  {
+    "id": 2011,
+    "title": "LIVE SPORTS 11 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://sc.id-tv.kz/ViasatSport_34_35.m3u8"
+  },
+  {
+    "id": 2010,
+    "title": "LIVE SPORTS 10 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8"
+  },
+  {
+    "id": 2009,
+    "title": "LIVE SPORTS 9 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8"
+  },
+  {
+    "id": 2008,
+    "title": "LIVE SPORTS 8 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8"
+  },
+  {
+    "id": 2007,
+    "title": "LIVE SPORTS 7 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://sde.trp2021.com:80/tvsstv/tv.ss/123858"
+  },
+  {
+    "id": 2006,
+    "title": "LIVE SPORTS 6 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://213.7.193.54:4000/play/a005/index.m3u8"
+  },
+  {
+    "id": 2005,
+    "title": "LIVE SPORTS 5 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+  },  
+  {
+    "id": 2004,
+    "title": "LIVE SPORTS 4 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://golive.yn.lt/live/bola/05.m3u8"
+  },
+  {
+    "id": 2003,
+    "title": "LIVE SPORTS 3 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://golive.yn.lt/live/bola/04.m3u8"
+  },
+  {
+    "id": 2002,
+    "title": "LIVE SPORTS 2 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://golive.yn.lt/live/bola/03.m3u8"
+  },
+  {
+    "id": 2001,
+    "title": "LIVE SPORTS 1 HD",
+    "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+    "description": "",
+    "category": "Sports",
+    "user_agent": "",
+    "streaming_url": "http://golive.yn.lt/live/bola/01.m3u8"
+  },
+
+
+
+  
 
   {
     "id": 5033,
