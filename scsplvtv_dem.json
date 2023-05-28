@@ -259,6 +259,33 @@
 
   "channels": [
     {
+      "id": 39,
+      "title": "LIVE SPORTS 39 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+      "description": "",
+      "category": "Live Sports",
+      "user_agent": "",
+      "streaming_url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+    },
+    {
+      "id": 38,
+      "title": "LIVE SPORTS 38 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+      "description": "",
+      "category": "Live Sports",
+      "user_agent": "",
+      "streaming_url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8"
+    },
+    {
+      "id": 37,
+      "title": "LIVE SPORTS 37 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+      "description": "",
+      "category": "Live Sports",
+      "user_agent": "",
+      "streaming_url": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"
+    },
+    {
       "id": 36,
       "title": "LIVE SPORTS 36 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
@@ -283,7 +310,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "http://186.31.37.98:8000/play/a00s/index.m3u8"
+      "streaming_url": "https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8"
     },
     {
       "id": 33,
@@ -301,7 +328,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "http://45.190.13.50:8002/play/a01i/index.m3u8"
+      "streaming_url": "https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8"
     },
     {
       "id": 31,
@@ -310,7 +337,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "http://103.190.35.2:8082/PTV-Sports/tracks-a1v1/index.m3u8"
+      "streaming_url": "https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8"
     },
     {
       "id": 30,
@@ -526,7 +553,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8"
+      "streaming_url": "https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8"
     },
     {
       "id": 6,
