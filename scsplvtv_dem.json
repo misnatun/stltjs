@@ -259,13 +259,22 @@
 
   "channels": [
     {
+      "id": 40,
+      "title": "LIVE SPORTS 40 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
+      "description": "",
+      "category": "Live Sports",
+      "user_agent": "",
+      "streaming_url": "https://d1dzg7boogvvbf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nm6zn6l6k3qew-ssai-prd/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
+    },
+    {
       "id": 39,
       "title": "LIVE SPORTS 39 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+      "streaming_url": "https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8?ads.wurl_channel=614&ads.wurl_name=SportOutdoorTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D"
     },
     {
       "id": 38,
@@ -274,7 +283,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8"
+      "streaming_url": "https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
     },
     {
       "id": 37,
@@ -283,7 +292,7 @@
       "description": "",
       "category": "Live Sports",
       "user_agent": "",
-      "streaming_url": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"
+      "streaming_url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
     },
     {
       "id": 36,
