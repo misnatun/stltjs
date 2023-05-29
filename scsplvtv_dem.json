@@ -1063,7 +1063,25 @@
 
 
 
-
+    
+    {
+      "id": 48,
+      "title": "CCTV 5 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Event Only",
+      "user_agent": "",
+      "streaming_url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8"
+    },
+    {
+      "id": 47,
+      "title": "CCTV 4 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Event Only",
+      "user_agent": "",
+      "streaming_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8"
+    },
     {
       "id": 43,
       "title": "TR SSPORT+ 2 HD",
@@ -1499,7 +1517,7 @@
     },
     {
       "id": 244,
-      "title": "ORF 1 HD",
+      "title": "ORF 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1508,7 +1526,7 @@
     },
     {
       "id": 243,
-      "title": "ALL SPORTS HD",
+      "title": "ALL SPORTS HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1517,7 +1535,7 @@
     },
     {
       "id": 242,
-      "title": "ADS SPORT 1 HD",
+      "title": "ADS SPORT 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1526,7 +1544,7 @@
     },
     {
       "id": 241,
-      "title": "DUBAI SPORT 2 HD",
+      "title": "DUBAI SPORT 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1535,7 +1553,7 @@
     },
     {
       "id": 240,
-      "title": "DUBAI SPORT 5 HD",
+      "title": "DUBAI SPORT 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1544,7 +1562,7 @@
     },
     {
       "id": 239,
-      "title": "AYAS SPORT HD",
+      "title": "AYAS SPORT HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1580,7 +1598,7 @@
     },
     {
       "id": 235,
-      "title": "CCTV 5 HD",
+      "title": "CCTV 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1589,7 +1607,7 @@
     },
     {
       "id": 234,
-      "title": "VIX HD",
+      "title": "VIX HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1616,7 +1634,7 @@
     },
     {
       "id": 231,
-      "title": "SONY SPORTS 5 HD",
+      "title": "SONY SPORTS 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1625,7 +1643,7 @@
     },
     {
       "id": 230,
-      "title": "SONY SPORTS 4 HD",
+      "title": "SONY SPORTS 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1634,7 +1652,7 @@
     },
     {
       "id": 229,
-      "title": "SONY SPORTS 3 HD",
+      "title": "SONY SPORTS 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1643,7 +1661,7 @@
     },
     {
       "id": 228,
-      "title": "SONY SPORTS 2 HD",
+      "title": "SONY SPORTS 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -1652,7 +1670,7 @@
     },
     {
       "id": 227,
-      "title": "SONY SPORTS 1 HD",
+      "title": "SONY SPORTS 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2408,7 +2426,7 @@
     },
     {
       "id": 143,
-      "title": "TENNIS 1 HD",
+      "title": "TENNIS 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2417,7 +2435,7 @@
     },
     {
       "id": 142,
-      "title": "TENNIS 2 HD",
+      "title": "TENNIS 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2481,7 +2499,7 @@
     },
     {
       "id": 135,
-      "title": "MAL ASTRO SS 4 HD",
+      "title": "MAL ASTRO SS 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2490,7 +2508,7 @@
     },
     {
       "id": 134,
-      "title": "MAL ASTRO SS 3 HD",
+      "title": "MAL ASTRO SS 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2499,7 +2517,7 @@
     },
     {
       "id": 133,
-      "title": "MAL ASTRO SS 2 HD",
+      "title": "MAL ASTRO SS 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2508,7 +2526,7 @@
     },
     {
       "id": 132,
-      "title": "MAL ASTRO SS 1 HD",
+      "title": "MAL ASTRO SS 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2517,7 +2535,7 @@
     },
     {
       "id": 131,
-      "title": "TNT SPORT 5 HD",
+      "title": "TNT SPORT 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2526,7 +2544,7 @@
     },
     {
       "id": 130,
-      "title": "TNT SPORT 4 HD",
+      "title": "TNT SPORT 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2535,7 +2553,7 @@
     },
     {
       "id": 129,
-      "title": "TNT SPORT 3 HD",
+      "title": "TNT SPORT 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2544,7 +2562,7 @@
     },
     {
       "id": 128,
-      "title": "TNT SPORT 2 HD",
+      "title": "TNT SPORT 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2553,7 +2571,7 @@
     },
     {
       "id": 127,
-      "title": "TNT SPORT 1 HD",
+      "title": "TNT SPORT 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2697,7 +2715,7 @@
     },
     {
       "id": 111,
-      "title": "ESPN EXTRA HD",
+      "title": "ESPN EXTRA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2706,7 +2724,7 @@
     },
     {
       "id": 110,
-      "title": "ESPN 4 HD",
+      "title": "ESPN 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2715,7 +2733,7 @@
     },
     {
       "id": 109,
-      "title": "ESPN 3 HD",
+      "title": "ESPN 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2724,7 +2742,7 @@
     },
     {
       "id": 108,
-      "title": "ESPN 2 HD",
+      "title": "ESPN 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2733,7 +2751,7 @@
     },
     {
       "id": 107,
-      "title": "ESPN 1 HD",
+      "title": "ESPN 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2742,7 +2760,7 @@
     },
     {
       "id": 106,
-      "title": "ESPN EXTRA SD",
+      "title": "ESPN EXTRA SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2751,7 +2769,7 @@
     },
     {
       "id": 105,
-      "title": "ESPN 4 SD",
+      "title": "ESPN 4 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2760,7 +2778,7 @@
     },
     {
       "id": 104,
-      "title": "ESPN 3 SD",
+      "title": "ESPN 3 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2769,7 +2787,7 @@
     },
     {
       "id": 103,
-      "title": "ESPN 2 SD",
+      "title": "ESPN 2 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2778,7 +2796,7 @@
     },
     {
       "id": 102,
-      "title": "ESPN 1 SD",
+      "title": "ESPN 1 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2787,7 +2805,7 @@
     },
     {
       "id": 101,
-      "title": "MX ESPN 3",
+      "title": "MX ESPN 3 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2796,7 +2814,7 @@
     },
     {
       "id": 100,
-      "title": "MX ESPN 2",
+      "title": "MX ESPN 2 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -2805,7 +2823,7 @@
     },
     {
       "id": 99,
-      "title": "MX ESPN 1",
+      "title": "MX ESPN 1 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -3075,7 +3093,7 @@
     },
     {
       "id": 69,
-      "title": "PL ELEVEN SPORTS 2",
+      "title": "PL ELEVEN SPORTS 2 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -3084,7 +3102,7 @@
     },
     {
       "id": 68,
-      "title": "PL ELEVEN SPORTS 1",
+      "title": "PL ELEVEN SPORTS 1 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -3651,7 +3669,7 @@
     },
     {
       "id": 5,
-      "title": "FIGHT SPORTS",
+      "title": "FIGHT SPORTS FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -3660,7 +3678,7 @@
     },
     {
       "id": 4,
-      "title": "MOTORVISION",
+      "title": "MOTORVISION FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
@@ -3669,7 +3687,7 @@
     },
     {
       "id": 3,
-      "title": "TVRI SPORT",
+      "title": "TVRI SPORT FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports",
