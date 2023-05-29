@@ -1479,6 +1479,34 @@
 
 
 
+
+    {
+      "id": 253,
+      "title": "ABU DHABI SPORTS 2 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Sports All",
+      "user_agent": "",
+      "streaming_url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+    },
+    {
+      "id": 252,
+      "title": "ABU DHABI SPORTS 1 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Sports All",
+      "user_agent": "",
+      "streaming_url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+    },
+    {
+      "id": 251,
+      "title": "SCTV15 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Sports All",
+      "user_agent": "",
+      "streaming_url": "https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8"
+    },
     {
       "id": 250,
       "title": "MAV TV HD FIX",
@@ -3741,6 +3769,42 @@
 
 
     {
+      "id": 104,
+      "title": "HBO FAMILY FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Movies",
+      "user_agent": "",
+      "streaming_url": "http://kusnadipepenk.github.io/campeign/hbofam.m3u8"
+    },
+    {
+      "id": 103,
+      "title": "HBO HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Movies",
+      "user_agent": "",
+      "streaming_url": "http://kusnadipepenk.github.io/campeign/hbo.m3u8"
+    },
+    {
+      "id": 102,
+      "title": "SCTV9 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Movies",
+      "user_agent": "",
+      "streaming_url": "https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8"
+    },
+    {
+      "id": 101,
+      "title": "SCTV4 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Movies",
+      "user_agent": "",
+      "streaming_url": "https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8"
+    },
+    {
       "id": 100,
       "title": "CSI PLUTO FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
@@ -5202,8 +5266,17 @@
 
 
     {
+      "id": 8,
+      "title": "ANIMAL PLANET HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Wilds & Planet",
+      "user_agent": "",
+      "streaming_url": "http://myott.top/stream/NZH6TKLQWR/114.m3u8"
+    },
+    {
       "id": 7,
-      "title": "IN WILD HD",
+      "title": "IN WILD HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Wilds & Planet",
@@ -5212,7 +5285,7 @@
     },
     {
       "id": 6,
-      "title": "WILD EARTH HD",
+      "title": "WILD EARTH HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Wilds & Planet",
@@ -5221,7 +5294,7 @@
     },
     {
       "id": 5,
-      "title": "WILD FISH 2 HD",
+      "title": "WILD FISH 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Wilds & Planet",
@@ -5230,7 +5303,7 @@
     },
     {
       "id": 4,
-      "title": "WILD FISH 1 HD",
+      "title": "WILD FISH 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Wilds & Planet",
@@ -5274,6 +5347,15 @@
 
 
 
+    {
+      "id": 19,
+      "title": "ABC NEWS FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "News",
+      "user_agent": "",
+      "streaming_url": "https://github.com/AqFad2811/randomlivefromyt/raw/main/youtube4.m3u8"
+    },
     {
       "id": 18,
       "title": "TV AZTECA FIX",
@@ -5357,12 +5439,12 @@
     },
     {
       "id": 9,
-      "title": "CNA",
+      "title": "CNA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "News",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.35/session/05920654-b280-11ed-99fb-c81f66f89318/uq2663/h/h29/01.m3u8"
+      "streaming_url": "https://github.com/AqFad2811/randomlivefromyt/raw/main/youtube.m3u8"
     },
     {
       "id": 8,
@@ -5601,6 +5683,33 @@
 
 
 
+    {
+      "id": 8,
+      "title": "HISTORY HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "http://myott.top/stream/NZH6TKLQWR/113.m3u8"
+    },
+    {
+      "id": 7,
+      "title": "DISCOVERY SCIENCE HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "http://myott.top/stream/NZH6TKLQWR/146.m3u8"
+    },
+    {
+      "id": 6,
+      "title": "DISCOVERY HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "http://myott.top/stream/NZH6TKLQWR/177.m3u8"
+    },
     {
       "id": 5,
       "title": "ES HISTORIA HD",
@@ -5996,6 +6105,15 @@
 
 
     {
+      "id": 16,
+      "title": "FASHION PARIS FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "http://beetv.my.id/x/plus-fashparis-gojokkk.m3u8"
+    },
+    {
       "id": 15,
       "title": "FASHION TV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
@@ -6287,7 +6405,7 @@
     },
     {
       "id": 68,
-      "title": "MY RED BULL HD",
+      "title": "MY RED BULL HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6296,7 +6414,7 @@
     },
     {
       "id": 67,
-      "title": "MY RTB GO LIVE HD",
+      "title": "MY RTB GO LIVE HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6305,7 +6423,7 @@
     },
     {
       "id": 66,
-      "title": "MY RTB ANEKA HD",
+      "title": "MY RTB ANEKA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6314,7 +6432,7 @@
     },
     {
       "id": 65,
-      "title": "MY SELANGOR TV HD",
+      "title": "MY SELANGOR TV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6323,7 +6441,7 @@
     },
     {
       "id": 64,
-      "title": "MY TV IKIM HD",
+      "title": "MY TV IKIM HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6332,7 +6450,7 @@
     },
     {
       "id": 63,
-      "title": "MY DUNIA SINEMA HD",
+      "title": "MY DUNIA SINEMA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6341,7 +6459,7 @@
     },
     {
       "id": 62,
-      "title": "MY RTB SUKMAINDRA HD",
+      "title": "MY RTB SUKMAINDRA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6377,7 +6495,7 @@
     },
     {
       "id": 58,
-      "title": "MY TV6 HD",
+      "title": "MY TV6 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6404,7 +6522,7 @@
     },
     {
       "id": 55,
-      "title": "MY ASTRO AWANI",
+      "title": "MY ASTRO AWANI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6413,7 +6531,7 @@
     },
     {
       "id": 54,
-      "title": "MY BERNAMA HD",
+      "title": "MY BERNAMA HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6431,7 +6549,7 @@
     },
     {
       "id": 52,
-      "title": "MY TV2 HD",
+      "title": "MY TV2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6440,7 +6558,7 @@
     },
     {
       "id": 51,
-      "title": "MY TV1 HD",
+      "title": "MY TV1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Malaysia",
@@ -6909,7 +7027,7 @@
 
     {
       "id": 28,
-      "title": "METRO GLOBE HD",
+      "title": "METRO GLOBE HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6918,7 +7036,7 @@
     },
     {
       "id": 27,
-      "title": "MAGNA CHANNEL",
+      "title": "MAGNA CHANNEL FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6927,7 +7045,7 @@
     },
     {
       "id": 26,
-      "title": "IDX CHANNEL HD",
+      "title": "IDX CHANNEL HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6936,7 +7054,7 @@
     },
     {
       "id": 25,
-      "title": "VTV HD",
+      "title": "VTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6945,7 +7063,7 @@
     },
     {
       "id": 24,
-      "title": "GTV",
+      "title": "GTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/gtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6954,7 +7072,7 @@
     },
     {
       "id": 23,
-      "title": "RCTI",
+      "title": "RCTI FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rcti.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6963,7 +7081,7 @@
     },
     {
       "id": 22,
-      "title": "MNC TV",
+      "title": "MNC TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/mnctv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6972,7 +7090,7 @@
     },
     {
       "id": 21,
-      "title": "INEWS",
+      "title": "INEWS FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/inewstv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -6999,7 +7117,7 @@
     },
     {
       "id": 18,
-      "title": "MNC TV",
+      "title": "MNC TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/mnctv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7008,7 +7126,7 @@
     },
     {
       "id": 17,
-      "title": "DAAI TV",
+      "title": "DAAI TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/daaitv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7017,7 +7135,7 @@
     },
     {
       "id": 16,
-      "title": "JTV",
+      "title": "JTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/jtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7026,7 +7144,7 @@
     },
     {
       "id": 15,
-      "title": "CNBC INDONESIA",
+      "title": "CNBC INDONESIA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/cnbc.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7035,7 +7153,7 @@
     },
     {
       "id": 14,
-      "title": "BERITASATU WORLD",
+      "title": "BERITASATU WORLD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/beritasatuworld.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7044,7 +7162,7 @@
     },
     {
       "id": 13,
-      "title": "BERITASATU ",
+      "title": "BERITASATU FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/beritasatu.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7053,7 +7171,7 @@
     },
     {
       "id": 12,
-      "title": "NUSANTARA TV",
+      "title": "NUSANTARA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/nusantaratv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7062,7 +7180,7 @@
     },
     {
       "id": 11,
-      "title": "CNN INDONESIA",
+      "title": "CNN INDONESIA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/cnn.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7071,7 +7189,7 @@
     },
     {
       "id": 10,
-      "title": "TV ONE",
+      "title": "TV ONE FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tvone.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7080,7 +7198,7 @@
     },
     {
       "id": 9,
-      "title": "KOMPAS TV",
+      "title": "KOMPAS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/kompastv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7089,7 +7207,7 @@
     },
     {
       "id": 8,
-      "title": "METRO TV",
+      "title": "METRO TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/metrotv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7098,7 +7216,7 @@
     },
     {
       "id": 7,
-      "title": "RTV",
+      "title": "RTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/rtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7107,16 +7225,16 @@
     },
     {
       "id": 6,
-      "title": "NET TV",
+      "title": "NET TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/nettv.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.37/qwr9ew/s/s08/index.m3u8"
+      "streaming_url": "https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8"
     },
     {
       "id": 5,
-      "title": "TRANS TV",
+      "title": "TRANS TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/transtv.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7125,7 +7243,7 @@
     },
     {
       "id": 4,
-      "title": "TRANS 7",
+      "title": "TRANS 7 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/trans7.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7134,7 +7252,7 @@
     },
     {
       "id": 3,
-      "title": "ANTV",
+      "title": "ANTV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/antv_keren_ok.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7143,7 +7261,7 @@
     },
     {
       "id": 2,
-      "title": "HIJRAH TV",
+      "title": "HIJRAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7152,7 +7270,7 @@
     },
     {
       "id": 1,
-      "title": "SURAU TV",
+      "title": "SURAU TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -7161,7 +7279,7 @@
     },
     {
       "id": 0,
-      "title": "MQTV HD",
+      "title": "MQTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
