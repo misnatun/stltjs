@@ -1481,39 +1481,39 @@
 
     {
       "id": 248,
-      "title": "ES DAZN 4 HD",
+      "title": "TYC SPORTS PLAY FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB8sfUgyg-IKwzb4ZQR9FtxB"
+      "streaming_url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8"
     },
     {
       "id": 247,
-      "title": "ES DAZN 3 HD",
+      "title": "TURKMENISTAN SPORT FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB8fjEfhzCOCHi1JvsAh3Mir"
+      "streaming_url": "http://217.174.225.146/hls/ch004_720/index.m3u8"
     },
     {
       "id": 246,
-      "title": "ES DAZN 2 HD",
+      "title": "HORSE & COUNTRY HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpwrqHGwt49R1F8MJiWBkLB_4SXAdGy6aT9Tcww8ylHrg"
+      "streaming_url": "https://hncfree-vizio.amagi.tv/playlist1080_P.m3u8"
     },
     {
       "id": 245,
-      "title": "ES DAZN 1 HD",
+      "title": "ACCN HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://carmelle.solanaflix.com:8080/play/sJ7b9KhMTz5vyuE2e0VJpxfmgfKpkJYycYmtqsQDjHQbGi0cLIF0r3ncteNQEajo"
+      "streaming_url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8"
     },
     {
       "id": 244,
@@ -1571,30 +1571,30 @@
     },
     {
       "id": 238,
-      "title": "HTV HD",
+      "title": "SKI TV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8"
+      "streaming_url": "https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8"
     },
     {
       "id": 237,
-      "title": "SCTV 15 HD",
+      "title": "MOTORVISON HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8"
+      "streaming_url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/2eaebc01-f951-4dc7-a09d-f65ad6a6428d/3.m3u8"
     },
     {
       "id": 236,
-      "title": "SCTV 17 HD",
+      "title": "HARLEY DAVIDSON TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8"
+      "streaming_url": "https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8"
     },
     {
       "id": 235,
@@ -1616,21 +1616,21 @@
     },
     {
       "id": 233,
-      "title": "SPOTV PRIME HD",
+      "title": "SPOTV 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "https://epg.pw/stream/d6db2d47f2d0ee421414248979010ece1e2190cd7267f57b4b0e21c160ee2384.m3u8"
+      "streaming_url": "http://kusnadipepenk.github.io/ntn/spotv2.m3u8"
     },
     {
       "id": 232,
-      "title": "SPOTV ON HD",
+      "title": "SPOTV 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584"
+      "streaming_url": "http://kusnadipepenk.github.io/ntn/spotv1.m3u8"
     },
     {
       "id": 231,
@@ -3692,25 +3692,25 @@
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.37/qwr9ew/s/s107/index.m3u8"
+      "streaming_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
     },
     {
       "id": 2,
-      "title": "HORIZON SPORT",
+      "title": "SPORT EN FRANCE FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.35/session/b9201b12-b27f-11ed-99fb-c81f66f89318/uq2663/h/h124/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HorizonSports"
+      "streaming_url": "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8"
     },
     {
       "id": 1,
-      "title": "MOTO RACING",
+      "title": "L'EQUIPE LIVE 1 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Sports All",
       "user_agent": "",
-      "streaming_url": "http://210.210.155.37/session/aa7172b4-b27f-11ed-99fb-c81f66f89318/uq2663/h/h223/S4/mnf.m3u8"
+      "streaming_url": "https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8"
     },
 
 
