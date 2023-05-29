@@ -627,169 +627,7 @@
 
 
 
-
-    {
-      "id": 33,
-      "title": "LIVE LEAGUE 33 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzwk98m0v/chunklist_w1495186754.m3u8"
-    },
-    {
-      "id": 32,
-      "title": "LIVE LEAGUE 32 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-23xmvkhp2o01qg8/chunklist_w185178171.m3u8"
-    },
-    {
-      "id": 31,
-      "title": "LIVE LEAGUE 31 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8x6yzr51/chunklist_w1258538355.m3u8"
-    },
-    {
-      "id": 30,
-      "title": "LIVE LEAGUE 30 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-318q66h61z61qo9/chunklist_w2088019902.m3u8"
-    },
-    {
-      "id": 29,
-      "title": "LIVE LEAGUE 29 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-6ypq3nh79llgmd7/chunklist_w505799753.m3u8"
-    },
-    {
-      "id": 28,
-      "title": "LIVE LEAGUE 28 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8g8kryk/chunklist_w1310711078.m3u8"
-    },
-    {
-      "id": 27,
-      "title": "LIVE LEAGUE 27 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5d4dyr6o/chunklist_w194679997.m3u8"
-    },
-    {
-      "id": 26,
-      "title": "LIVE LEAGUE 26 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h32w2xqdy/chunklist_w659197945.m3u8"
-    },
-    {
-      "id": 25,
-      "title": "LIVE LEAGUE 25 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj34xkm7v/chunklist_w600391045.m3u8"
-    },
-    {
-      "id": 24,
-      "title": "LIVE LEAGUE 24 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz0ex1m0v/chunklist_w597349821.m3u8"
-    },
-    {
-      "id": 23,
-      "title": "LIVE LEAGUE 23 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-y39mp1h0kzywmoj/chunklist_w1814753269.m3u8"
-    },
-    {
-      "id": 22,
-      "title": "LIVE LEAGUE 22 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-ednm9wh2d7vdryo/chunklist_w882081943.m3u8"
-    },
-    {
-      "id": 21,
-      "title": "LIVE LEAGUE 21 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-318q66h6nk0dqo9/chunklist_w485944420.m3u8"
-    },
-    {
-      "id": 20,
-      "title": "LIVE LEAGUE 20 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-ednm9wh2pv3gryo/chunklist_w1868909723.m3u8"
-    },
-    {
-      "id": 19,
-      "title": "LIVE LEAGUE 19 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3246vm2w/chunklist_w798677828.m3u8"
-    },
-    {
-      "id": 18,
-      "title": "LIVE LEAGUE 18 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-dj2ryoheon2nq1z/chunklist_w429246997.m3u8"
-    },
-    {
-      "id": 17,
-      "title": "LIVE LEAGUE 17 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-23xmvkhp2lx3qg8/chunklist_w1803300232.m3u8"
-    },
-    {
-      "id": 16,
-      "title": "LIVE LEAGUE 16 HD",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
-      "description": "",
-      "category": "World League",
-      "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2z6dzr1g/chunklist_w2012697060.m3u8"
-    },
+    
     {
       "id": 15,
       "title": "LIVE LEAGUE 15 HD",
@@ -834,7 +672,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx70ynryk/chunklist_w1884199529.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwvyo6ql0/chunklist_w1359927255.m3u8"
     },
     {
       "id": 10,
@@ -843,7 +681,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/hd-en-2y8m4zhw484xql0/chunklist_w1325676656.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-8yomo4hg63p5q0j/chunklist_w1740459603.m3u8"
     },
     {
       "id": 9,
@@ -852,7 +690,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpo3onmoe/chunklist_w403384177.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-ednm9wh2p6lyryo/chunklist_w558601394.m3u8"
     },
     {
       "id": 8,
@@ -861,7 +699,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2gezpr1g/chunklist_w1904800175.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-n54qllhp3dw6qvy/chunklist_w182636882.m3u8"
     },
     {
       "id": 7,
@@ -870,7 +708,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnhj3xe7m7v/chunklist_w371848904.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-y0or5jhz51wdqwz/chunklist_w1645868054.m3u8"
     },
     {
       "id": 6,
@@ -879,11 +717,11 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/hd-en-y0or5jhz031wqwz/chunklist_w1725923574.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxlo8eryk/chunklist_w1280542751.m3u8"
     },
     {
       "id": 5,
-      "title": "LIVE LEAGUE 5 HD",
+      "title": "LIVE LEAGUE 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
@@ -892,7 +730,7 @@
     },
     {
       "id": 4,
-      "title": "LIVE LEAGUE 4 HD",
+      "title": "LIVE LEAGUE 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
@@ -901,7 +739,7 @@
     },
     {
       "id": 3,
-      "title": "LIVE LEAGUE 3 HD",
+      "title": "LIVE LEAGUE 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
@@ -910,7 +748,7 @@
     },
     {
       "id": 2,
-      "title": "LIVE LEAGUE 2 HD",
+      "title": "LIVE LEAGUE 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
@@ -919,7 +757,7 @@
     },
     {
       "id": 1,
-      "title": "LIVE LEAGUE 1 HD",
+      "title": "LIVE LEAGUE 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event_on.png",
       "description": "",
       "category": "World League",
@@ -938,7 +776,7 @@
     
     {
       "id": 31,
-      "title": "LIVE EVENT 5 FHD",
+      "title": "LIVE EVENT 5 FHD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -947,7 +785,7 @@
     },
     {
       "id": 30,
-      "title": "LIVE EVENT 4 FHD",
+      "title": "LIVE EVENT 4 FHD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -956,7 +794,7 @@
     },
     {
       "id": 29,
-      "title": "LIVE EVENT 3 FHD",
+      "title": "LIVE EVENT 3 FHD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -965,7 +803,7 @@
     },
     {
       "id": 28,
-      "title": "LIVE EVENT 2 FHD",
+      "title": "LIVE EVENT 2 FHD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -974,7 +812,7 @@
     },
     {
       "id": 27,
-      "title": "LIVE EVENT 1 FHD",
+      "title": "LIVE EVENT 1 FHD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1001,7 +839,7 @@
     },
     {
       "id": 24,
-      "title": "LIVE EVENT 10 HD",
+      "title": "LIVE EVENT 10 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1010,7 +848,7 @@
     },
     {
       "id": 23,
-      "title": "LIVE EVENT 9 HD",
+      "title": "LIVE EVENT 9 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1019,7 +857,7 @@
     },
     {
       "id": 22,
-      "title": "LIVE EVENT 8 HD",
+      "title": "LIVE EVENT 8 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1028,7 +866,7 @@
     },
     {
       "id": 21,
-      "title": "LIVE EVENT 7 HD",
+      "title": "LIVE EVENT 7 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1037,7 +875,7 @@
     },
     {
       "id": 20,
-      "title": "LIVE EVENT 6 HD",
+      "title": "LIVE EVENT 6 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1046,7 +884,7 @@
     },
     {
       "id": 19,
-      "title": "LIVE EVENT 5 HD",
+      "title": "LIVE EVENT 5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1055,7 +893,7 @@
     },
     {
       "id": 18,
-      "title": "LIVE EVENT 4 HD",
+      "title": "LIVE EVENT 4 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1064,7 +902,7 @@
     },
     {
       "id": 17,
-      "title": "LIVE EVENT 3 HD",
+      "title": "LIVE EVENT 3 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1073,7 +911,7 @@
     },
     {
       "id": 16,
-      "title": "LIVE EVENT 2 HD",
+      "title": "LIVE EVENT 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1082,7 +920,7 @@
     },
     {
       "id": 15,
-      "title": "LIVE EVENT 1 HD",
+      "title": "LIVE EVENT 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1118,7 +956,7 @@
     },
     {
       "id": 11,
-      "title": "LIVE EVENT 11 SD",
+      "title": "LIVE EVENT 11 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1127,7 +965,7 @@
     },
     {
       "id": 10,
-      "title": "LIVE EVENT 10 SD",
+      "title": "LIVE EVENT 10 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1136,7 +974,7 @@
     },
     {
       "id": 9,
-      "title": "LIVE EVENT 9 SD",
+      "title": "LIVE EVENT 9 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1145,7 +983,7 @@
     },
     {
       "id": 8,
-      "title": "LIVE EVENT 8 SD",
+      "title": "LIVE EVENT 8 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1154,7 +992,7 @@
     },
     {
       "id": 7,
-      "title": "LIVE EVENT 7 SD",
+      "title": "LIVE EVENT 7 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1163,7 +1001,7 @@
     },
     {
       "id": 6,
-      "title": "LIVE EVENT 6 SD",
+      "title": "LIVE EVENT 6 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1172,7 +1010,7 @@
     },
     {
       "id": 5,
-      "title": "LIVE EVENT 5 SD",
+      "title": "LIVE EVENT 5 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1181,7 +1019,7 @@
     },
     {
       "id": 4,
-      "title": "LIVE EVENT 4 SD",
+      "title": "LIVE EVENT 4 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1190,7 +1028,7 @@
     },
     {
       "id": 3,
-      "title": "LIVE EVENT 3 SD",
+      "title": "LIVE EVENT 3 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1199,7 +1037,7 @@
     },
     {
       "id": 2,
-      "title": "LIVE EVENT 2 SD",
+      "title": "LIVE EVENT 2 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
@@ -1209,7 +1047,7 @@
     
     {
       "id": 1,
-      "title": "LIVE EVENT 1 SD",
+      "title": "LIVE EVENT 1 SD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_event.png",
       "description": "",
       "category": "Live Event",
