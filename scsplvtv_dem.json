@@ -6986,12 +6986,12 @@
     },
     {
       "id": 22,
-      "title": "GMM 25",
+      "title": "GMM 25 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8"
+      "streaming_url": "https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=bjeMTc4NTE1YmI4ZmY5YzliOGE4ZgNWZkN2M2NTg4YjhkYzMy"
     },
     {
       "id": 21,
@@ -7027,7 +7027,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://www.youtube.com/watch?v=T_wnSLpaet8"
+      "streaming_url": "https://youtu.be/66S50DuO7Wk"
     },
     {
       "id": 17,
