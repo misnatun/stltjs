@@ -7162,7 +7162,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8"
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8|Referer=https://freetvdd.com"
     },
     {
       "id": 2,
