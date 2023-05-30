@@ -7018,7 +7018,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8"
+      "streaming_url": "https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1685512447&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=MUbQht5t8SRQwRfgjR3ZGQ"
     },
     {
       "id": 18,
@@ -7027,7 +7027,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8"
+      "streaming_url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1685466771&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=AcXj04fwBsOviORikqYbHw"
     },
     {
       "id": 17,
@@ -7036,7 +7036,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8"
+      "streaming_url": "https://thairathtv2.cdn.byteark.com/trtv2/playlist.m3u8"
     },
     {
       "id": 16,
@@ -7090,7 +7090,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8"
+      "streaming_url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1685459761&x_ark_path_prefix=%2Flive%2F&x_ark_signature=3Gy4M0ESsSwavggF9q395g"
     },
     {
       "id": 10,
@@ -7099,7 +7099,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8"
+      "streaming_url": "https://www.dailymotion.com/cdn/live/video/x6g9qjj.m3u8?sec=xhWNiiJ5iO1-fW8kPq8UgGIWCHQcBJeLjIAbxNLjL0b8CFRZx91YoU-VcI4hxvfw&dmTs=775606&dmV1st=2B2C580682FA06BA571AEE8E97388C2B"
     },
     {
       "id": 9,
@@ -7108,7 +7108,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8"
+      "streaming_url": "https://www.dailymotion.com/cdn/live/video/x6eoldf.m3u8?sec=OxGv0Lqq_sHGgo7HKX83yOQC05ni2DJH1MFqaxoG5-SWv1X-A96xJm5VD1cYzBtM&dmTs=775606&dmV1st=2B2C580682FA06BA571AEE8E97388C2B"
     },
     {
       "id": 8,
@@ -7171,7 +7171,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8"
+      "streaming_url": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8"
     },
     {
       "id": 1,
@@ -7180,7 +7180,7 @@
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8"
+      "streaming_url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w1659582522_b3128000.m3u8"
     },
 
 
