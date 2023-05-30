@@ -6977,7 +6977,7 @@
     },
     {
       "id": 23,
-      "title": "TVB THAI HD FIX",
+      "title": "TVB THAI HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6995,7 +6995,7 @@
     },
     {
       "id": 21,
-      "title": "PPTV HD FIX",
+      "title": "PPTV HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7004,7 +7004,7 @@
     },
     {
       "id": 20,
-      "title": "CH 7 HD FIX",
+      "title": "CH 7 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7040,7 +7040,7 @@
     },
     {
       "id": 16,
-      "title": "ONE HD FIX",
+      "title": "ONE HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7049,7 +7049,7 @@
     },
     {
       "id": 15,
-      "title": "MCOT HD FIX",
+      "title": "MCOT HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7058,7 +7058,7 @@
     },
     {
       "id": 14,
-      "title": "MONO 29 HD FIX",
+      "title": "MONO 29 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7067,7 +7067,7 @@
     },
     {
       "id": 13,
-      "title": "CH 8 HD FIX",
+      "title": "CH 8 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7076,7 +7076,7 @@
     },
     {
       "id": 12,
-      "title": "GMM 25 FIX",
+      "title": "GMM 25",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7094,7 +7094,7 @@
     },
     {
       "id": 10,
-      "title": "WORKPOINT TV FIX",
+      "title": "WORKPOINT TV",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7103,7 +7103,7 @@
     },
     {
       "id": 9,
-      "title": "NATIONAL TV FIX",
+      "title": "NATIONAL TV",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7112,7 +7112,7 @@
     },
     {
       "id": 8,
-      "title": "JKN 18 HD FIX",
+      "title": "JKN 18 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7121,7 +7121,7 @@
     },
     {
       "id": 7,
-      "title": "TNN 16 HD FIX",
+      "title": "TNN 16 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7130,7 +7130,7 @@
     },
     {
       "id": 6,
-      "title": "TPTV HD FIX",
+      "title": "TPTV HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -7139,30 +7139,30 @@
     },
     {
       "id": 5,
-      "title": "T SPORTS 7 FIX",
+      "title": "T SPORTS 7",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
       "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8"
     },
     {
       "id": 4,
-      "title": "TV5 HD FIX",
+      "title": "TV5 HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
       "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8"
     },
     {
       "id": 3,
-      "title": "ALTV HD FIX",
+      "title": "ALTV HD",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=65068&extension=ts&play_token=ypZtCVwKRM"
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8"
     },
     {
       "id": 2,
