@@ -677,7 +677,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwvyo6ql0/chunklist_w1359927255.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx42o2ryk/chunklist_w694553446.m3u8"
     },
     {
       "id": 10,
@@ -686,7 +686,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-8yomo4hg63p5q0j/chunklist_w1740459603.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjy05q0j/chunklist_w821764418.m3u8"
     },
     {
       "id": 9,
@@ -695,7 +695,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-ednm9wh2p6lyryo/chunklist_w558601394.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h38pv1qdy/chunklist_w598791085.m3u8"
     },
     {
       "id": 8,
@@ -704,7 +704,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-n54qllhp3dw6qvy/chunklist_w182636882.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3l0eq86/chunklist_w293494208.m3u8"
     },
     {
       "id": 7,
@@ -713,7 +713,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-y0or5jhz51wdqwz/chunklist_w1645868054.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6z07jrz8/chunklist_w1378690844.m3u8"
     },
     {
       "id": 6,
@@ -722,7 +722,7 @@
       "description": "",
       "category": "World League",
       "user_agent": "",
-      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36wkkm2w/chunklist_w561284224.m3u8"
+      "streaming_url": "https://179720687.global.cdnfastest.com/live/sd-y0or5jhzdjv0qwz/chunklist_w25265659.m3u8"
     },
     {
       "id": 5,
@@ -6220,6 +6220,114 @@
 
 
     {
+      "id": 20,
+      "title": "SO REAL HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://soreal-localnow.cinedigm.com/playlist1080p.m3u8"
+    },
+    {
+      "id": 19,
+      "title": "DOCUMENTARY FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=30b98945-c262-467a-9cdc-5dffae357184&deviceLat=28.3939&deviceLon=-81.4216&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=12.0&includeExtendedEvents=false&sid=c0755142-b660-47a7-ae57-b171b8c04bda&userId=&serverSideAds=true"
+    },
+    {
+      "id": 18,
+      "title": "REAL STORIES FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8"
+    },
+    {
+      "id": 17,
+      "title": "WONDER TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8"
+    },
+    {
+      "id": 16,
+      "title": "INWONDER TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://inwonder-samsungau.amagi.tv/playlist720.m3u8"
+    },
+    {
+      "id": 15,
+      "title": "INTROUBLE TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://introuble-samsungau.amagi.tv/playlist1080p.m3u8"
+    },
+    {
+      "id": 14,
+      "title": "RAKUTEN DOCUMENTARY FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8"
+    },
+    {
+      "id": 13,
+      "title": "CGTN DOCUMENTARY FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration"
+    },
+    {
+      "id": 12,
+      "title": "SMINTHSONIAN CH FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8"
+    },
+    {
+      "id": 11,
+      "title": "NASA TV 2 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+    },
+    {
+      "id": 10,
+      "title": "NASA TV 1 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+    },
+    {
+      "id": 9,
+      "title": "DRONE TV HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Knowledge",
+      "user_agent": "",
+      "streaming_url": "https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8"
+    },
+    {
       "id": 8,
       "title": "HISTORY HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
@@ -6248,25 +6356,25 @@
     },
     {
       "id": 5,
-      "title": "ES HISTORIA HD",
+      "title": "TIMELINE HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Knowledge",
       "user_agent": "",
-      "streaming_url": "http://tvonpt.net:80/play/live.php?mac=00:1a:79:ac:d5:30&stream=3238&extension=ts&play_token=x3xtHT0ESF"
+      "streaming_url": "https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8"
     },
     {
       "id": 4,
-      "title": "ES AMC CRIME",
+      "title": "CRIME INVESTIGATION FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Knowledge",
       "user_agent": "",
-      "streaming_url": "http://tvt3.xyz:2095/play/live.php?mac=10:27:be:05:82:d6&stream=473006&extension=ts&play_token=6TzXaetaGX"
+      "streaming_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "id": 3,
-      "title": "ES MEGA",
+      "title": "ES MEGA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Knowledge",
@@ -6275,7 +6383,7 @@
     },
     {
       "id": 2,
-      "title": "LEARNING & KNOWLEDGE",
+      "title": "LEARNING & KNOWLEDGE FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Knowledge",
@@ -6284,7 +6392,7 @@
     },
     {
       "id": 1,
-      "title": "DENS SHOWBIZ",
+      "title": "DENS SHOWBIZ FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Knowledge",
@@ -6301,33 +6409,77 @@
 
 
     {
-      "id": 8,
-      "title": "EN BEIN SPORT 3",
+      "id": 13,
+      "title": "BEIN SPORT 1 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "streaming_url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8"
+    },
+    {
+      "id": 12,
+      "title": "TH TRUE 1 EPL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "streaming_url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8"
+    },
+    {
+      "id": 11,
+      "title": "TR BEIN SPORT 3 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Premier Leaguage",
       "user_agent": "",
-      "streaming_url": "http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:3A:17:0C&stream=1088032&extension=ts&play_token=euAwcBm1pq"
+      "streaming_url": "http://932459263532416250.ot2339.xyz:80/play/jean81/jean09092022/416250.ts"
+    },
+    {
+      "id": 10,
+      "title": "TR BEIN SPORT 2 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "",
+      "streaming_url": "http://932459263532443662.ot2339.xyz:80/play/jean81/jean09092022/443662.ts"
+    },
+    {
+      "id": 9,
+      "title": "TR BEIN SPORT 1 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "",
+      "streaming_url": "http://932459263532486196.ot2339.xyz:80/play/jean81/jean09092022/486196.ts"
+    },
+    {
+      "id": 8,
+      "title": "FR BEIN SPORT 3 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "",
+      "streaming_url": "http://932459263532488234.ot2339.xyz:80/play/jean81/jean09092022/488234.ts"
     },
     {
       "id": 7,
-      "title": "EN BEIN SPORT 2",
+      "title": "FR BEIN SPORT 2 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Premier Leaguage",
       "user_agent": "",
-      "streaming_url": "http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:3A:17:0C&stream=1088033&extension=ts&play_token=fFjTLMStaY"
+      "streaming_url": "http://932459263532488232.ot2339.xyz:80/play/jean81/jean09092022/488232.ts"
     },
     {
       "id": 6,
-      "title": "EN BEIN SPORT 1",
+      "title": "FR BEIN SPORT 1 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Premier Leaguage",
       "user_agent": "",
-      "streaming_url": "http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:3A:17:0C&stream=1088034&extension=ts&play_token=UYF5UYCRqV"
-    },
-    
+      "streaming_url": "http://932459263532488229.ot2339.xyz:80/play/jean81/jean09092022/488229.ts"
+    },    
     {
       "id": 5,
       "title": "TH TRUE 5 EPL",
@@ -6412,8 +6564,44 @@
 
 
     {
+      "id": 9,
+      "title": "FIGHT NETWORK 2 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Fight Sport",
+      "user_agent": "",
+      "streaming_url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+    },
+    {
+      "id": 8,
+      "title": "IMPACK WRESTLING FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Fight Sport",
+      "user_agent": "",
+      "streaming_url": "https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8"
+    },
+    {
+      "id": 7,
+      "title": "MMA JUNKIE FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Fight Sport",
+      "user_agent": "",
+      "streaming_url": "https://d2tuwvs0ja335j.cloudfront.net/hls/720plo/playlist.m3u8"
+    },
+    {
+      "id": 6,
+      "title": "COMBATE GLOBAL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Fight Sport",
+      "user_agent": "",
+      "streaming_url": "https://stream.ads.ottera.tv/cl/230421ch1eh6e61p3sa7u9e2o0/1280x720_2300000_0_f.m3u8"
+    },
+    {
       "id": 5,
-      "title": "IMPACK HD",
+      "title": "IMPACK HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Fight Sport",
@@ -6422,7 +6610,7 @@
     },
     {
       "id": 4,
-      "title": "MMA TV",
+      "title": "MMA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Fight Sport",
@@ -6431,7 +6619,7 @@
     },
     {
       "id": 3,
-      "title": "HARD KNOCK",
+      "title": "HARD KNOCK FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Fight Sport",
@@ -6440,7 +6628,7 @@
     },
     {
       "id": 2,
-      "title": "FTF SPORT",
+      "title": "FTF SPORT FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Fight Sport",
@@ -6449,7 +6637,7 @@
     },
     {
       "id": 1,
-      "title": "FIGHT BOX HD",
+      "title": "FIGHT BOX HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Fight Sport",
@@ -6467,8 +6655,44 @@
 
 
     {
+      "id": 6,
+      "title": "GOTRAVELER HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Health",
+      "user_agent": "",
+      "streaming_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=_W_zs-so2RF5Pqkmm6m1&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=_W_zs-so2RF5Pqkmm6m1&custom_7=60a53634126de9002e694bc2"
+    },
+    {
+      "id": 5,
+      "title": "TRAVELXP HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Health",
+      "user_agent": "",
+      "streaming_url": "https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8"
+    },
+    {
+      "id": 4,
+      "title": "TRAVEL HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Health",
+      "user_agent": "",
+      "streaming_url": "https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8"
+    },
+    {
+      "id": 3,
+      "title": "WELLBEING TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Health",
+      "user_agent": "",
+      "streaming_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
+    },
+    {
       "id": 2,
-      "title": "PT FITNESS HOME",
+      "title": "PT FITNESS HOME FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Health",
@@ -6477,7 +6701,7 @@
     },
     {
       "id": 1,
-      "title": "PT FITNESS YOGA",
+      "title": "PT FITNESS YOGA FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Health",
@@ -6566,10 +6790,109 @@
 
 
 
-
+     
+    {
+      "id": 19,
+      "title": "TASTEMADE TRAVEL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": 18,
+      "title": "TASTEMADE INTERNATIONAL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
+    },
+    {
+      "id": 17,
+      "title": "TASTEMADE ESPANOL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": 16,
+      "title": "TASTEMADE DEUTSCHLAND FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://tastemade-de-samsung.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": 15,
+      "title": "TASTEMADE BRAZIL FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": 14,
+      "title": "TASTEMADE AUSTRALIA FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": 13,
+      "title": "HELLO TASTE FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+    },
+    {
+      "id": 12,
+      "title": "HELL'S KITCHEN FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+    },
+    {
+      "id": 11,
+      "title": "COOKING PANDA FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+    },
+    {
+      "id": 10,
+      "title": "CHEF CHAMPION FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8"
+    },
+    {
+      "id": 9,
+      "title": "BON APPETIT FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Cooking",
+      "user_agent": "",
+      "streaming_url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
+    },
     {
       "id": 8,
-      "title": "YUMMY",
+      "title": "YUMMY FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
@@ -6578,7 +6901,7 @@
     },
     {
       "id": 7,
-      "title": "BONAPPETIT",
+      "title": "BONAPPETIT FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
@@ -6587,7 +6910,7 @@
     },
     {
       "id": 6,
-      "title": "K NIGHTMARE",
+      "title": "K NIGHTMARE FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
@@ -6596,12 +6919,12 @@
     },
     {
       "id": 5,
-      "title": "GUSTO TV",
+      "title": "GUSTO TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
       "user_agent": "",
-      "streaming_url": "https://gustotv-samsung-gb.samsung.wurl.tv:443/089025e8e07edc059504b28ffd897267.m3u8"
+      "streaming_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
     },
     {
       "id": 4,
@@ -6610,11 +6933,11 @@
       "description": "",
       "category": "Cooking",
       "user_agent": "",
-      "streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=18563&extension=ts&play_token=dDFzF2ZKcd"
+      "streaming_url": "https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8"
     },
     {
       "id": 3,
-      "title": "ES LA 2 HD",
+      "title": "ES LA 2 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
@@ -6623,16 +6946,16 @@
     },
     {
       "id": 2,
-      "title": "ES LA 1 HD",
+      "title": "ES LA 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
       "user_agent": "",
-      "streaming_url": "http://powerglobal.io:80/play/live.php?mac=00:1a:79:b4:5c:9c&stream=3166&extension=ts&play_token=4BCpImQ287"
+      "streaming_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
     },
     {
       "id": 1,
-      "title": "DENS FOOD CHANNEL",
+      "title": "DENS FOOD CHANNEL FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Cooking",
@@ -6649,6 +6972,60 @@
 
 
 
+    {
+      "id": 22,
+      "title": "SABER MAS HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://sabermas-plex.amagi.tv/SaberMas-xumo/master_6.m3u8"
+    },
+    {
+      "id": 21,
+      "title": "CIVILIZED HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8"
+    },
+    {
+      "id": 20,
+      "title": "REAL LIFE FAMILY FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://lds-realfamilies-plex.amagi.tv/playlist1080p.m3u8"
+    },
+    {
+      "id": 19,
+      "title": "YOUNG HOLLYWOOD 2 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://dai.google.com/linear/hls/event/PXzvwCecR2eybIVtd-593w/master.m3u8"
+    },
+    {
+      "id": 18,
+      "title": "YOUNG HOLLYWOOD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://younghollywood-rakuten-samsung.amagi.tv/playlist720p.m3u8"
+    },
+    {
+      "id": 17,
+      "title": "HOLA PLAY HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Entertainment",
+      "user_agent": "",
+      "streaming_url": "https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8"
+    },
     {
       "id": 16,
       "title": "FASHION PARIS FIX",
