@@ -6409,6 +6409,24 @@
 
 
     {
+      "id": 10,
+      "title": "TEST SPORTS CH 2 HD",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|referer=https://www.madoohd.com"
+    },
+    {
+      "id": 9,
+      "title": "TEST SPORTS CH 1 HD",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Premier Leaguage",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8"
+    },
+    {
       "id": 8,
       "title": "EN BEIN SPORT 3",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
