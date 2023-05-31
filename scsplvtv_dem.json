@@ -6941,16 +6941,16 @@
     
     {
       "id": 27,
-      "title": "ONE HD",
+      "title": "ONE HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
       "category": "Thailand",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
       "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8"
     },
     {
       "id": 26,
-      "title": "MCOT HD",
+      "title": "MCOT HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6959,7 +6959,7 @@
     },
     {
       "id": 25,
-      "title": "JKN 18 HD",
+      "title": "JKN 18 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6968,7 +6968,7 @@
     },
     {
       "id": 24,
-      "title": "TPTV HD",
+      "title": "TPTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6977,7 +6977,7 @@
     },
     {
       "id": 23,
-      "title": "T SPORTS 7",
+      "title": "T SPORTS 7 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6986,7 +6986,7 @@
     },
     {
       "id": 22,
-      "title": "TV5 HD",
+      "title": "TV5 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
@@ -6995,6 +6995,33 @@
     },
     {
       "id": 21,
+      "title": "TNN 16 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Thailand",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8"
+    },
+    {
+      "id": 20,
+      "title": "WORKPOINT TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Thailand",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8"
+    },
+    {
+      "id": 19,
+      "title": "TRUE 4U FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Thailand",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "streaming_url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8"
+    },
+    {
+      "id": 18,
       "title": "PPTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -7003,25 +7030,16 @@
       "streaming_url": "https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeMDBlYjZkNGRmYTBkODg1MTc5OAM2NhMzcwY2FlODhmNTIz"
     },
     {
-      "id": 20,
+      "id": 17,
       "title": "AMARIN TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1685512447&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=MUbQht5t8SRQwRfgjR3ZGQ"
+      "streaming_url": "https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzVhNDFjYjUxMzBmMDY2MmQ2MQOTE2NDE4MWY2NzE3NGMw"
     },
     {
-      "id": 19,
-      "title": "TRUE 4U FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1685483753&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ve5pciME6f-SWhzoqPJfOw"
-    },
-    {
-      "id": 18,
+      "id": 16,
       "title": "MONO 29 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -7030,7 +7048,7 @@
       "streaming_url": "https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeODhjNTcwMzVlNWYxMzU1ZDhhOANDVmNjE2NzhmMmFmZmIy"
     },
     {
-      "id": 17,
+      "id": 15,
       "title": "GMM 25 FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -7039,40 +7057,22 @@
       "streaming_url": "https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=bjeMTc4NTE1YmI4ZmY5YzliOGE4ZgNWZkN2M2NTg4YjhkYzMy"
     },
     {
-      "id": 16,
-      "title": "WORKPOINT TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8hb46W0z35mmSxKKK81ocpAX6DCPfi5f6Zy77QS11jgR)/dm/3/x6g9qjj/s/live-3.m3u8"
-    },
-    {
-      "id": 15,
+      "id": 14,
       "title": "NATIONAL TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
       "user_agent": "",
-      "streaming_url": "https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YScm1yedZ-4t31V7FfLI9a4yxXcgZRxrpSdnXj87NhfPH)/dm/3/x6eoldf/d/live-3.m3u8"
+      "streaming_url": "https://s0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeOTExNDRhYjg1YzQyMjI1MDIxNwMzRkOTcxMTk4YjBjYTkw"
     },
     {
-      "id": 14,
+      "id": 13,
       "title": "TVB THAI HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Thailand",
       "user_agent": "",
       "streaming_url": "https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8"
-    },
-    {
-      "id": 13,
-      "title": "TNN 16 HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Thailand",
-      "user_agent": "",
-      "streaming_url": "https://youtu.be/66S50DuO7Wk"
     },
     {
       "id": 12,
