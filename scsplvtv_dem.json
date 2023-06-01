@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.mitsukianimewallpaperhd",
 
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/misnatun/channels/main/privacy_policy.html",
       "email_feedback_and_report": "oka.yuniantika174@gmail.com",
@@ -10,11 +10,12 @@
       "show_related_channels": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
-      "enable_app_protection": false,
       "enable_vpn_access": true,
       "enable_dark_mode_as_default_theme": false,
       "landscape_mode_as_default_player_orientation": true,
       "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
+
+      "enable_app_protection": false,
       "base64_license_key": ""
     }
   ],
@@ -81,8 +82,10 @@
 
       "show_interstitial_ad_channel_list": true,
       "show_interstitial_ad_channel_details": true,
+
       "show_native_ad_channel_list": true,
       "show_native_ad_channel_details": true,
+      
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
