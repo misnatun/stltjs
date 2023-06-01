@@ -907,7 +907,7 @@
     },
     {
       "id": 72,
-      "title": "APA YA 1 FIX",
+      "title": "JITV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -916,7 +916,7 @@
     },
     {
       "id": 73,
-      "title": "APA YA 2 FIX",
+      "title": "AFBTV 1 HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
@@ -925,22 +925,13 @@
     },
     {
       "id": 74,
-      "title": "APA YA 3 FIX",
+      "title": "SAMPIT 1 TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch86.m3u8"
     },
-    {
-      "id": 75,
-      "title": "APA YA 4 FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch92.m3u8"
-    },  
 
 
 
