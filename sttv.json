@@ -10,11 +10,12 @@
       "show_related_channels": false,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
-      "enable_app_protection": false,
       "enable_vpn_access": true,
       "enable_dark_mode_as_default_theme": false,
       "landscape_mode_as_default_player_orientation": true,
       "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
+      
+      "enable_app_protection": false,
       "base64_license_key": ""
     }
   ],
@@ -26,29 +27,38 @@
   "ads": [
     {
       "ad_status": 1,
+
       "main_ad": "admob",
       "backup_ad": "none",
+
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
+
       "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+
       "startapp_app_id": "0",
+
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
+
       "applovin_banner_unit_id": "0",
       "applovin_interstitial_unit_id": "0",
       "applovin_native_manual_unit_id": "0",
       "applovin_open_ad_unit_id": "0",
+
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
+
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
@@ -72,8 +82,10 @@
 
       "show_interstitial_ad_channel_list": true,
       "show_interstitial_ad_channel_details": true,
+
       "show_native_ad_channel_list": true,
       "show_native_ad_channel_details": true,
+
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
@@ -125,7 +137,7 @@
   
 
 
-  
+
   "categories": [
     {
       "id": 1,
