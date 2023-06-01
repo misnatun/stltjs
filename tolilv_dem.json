@@ -529,12 +529,12 @@
     },
     {
       "id": 30,
-      "title": "HIJRAH TV FIX",
+      "title": "RODJA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
+      "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"
     },
     {
       "id": 31,
@@ -547,87 +547,6 @@
     },
     {
       "id": 32,
-      "title": "INSAN TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch1.m3u8"
-    },
-    {
-      "id": 33,
-      "title": "MQTV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
-    },
-    {
-      "id": 34,
-      "title": "INSPIRA TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
-    },
-    {
-      "id": 35,
-      "title": "MUADZ TV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch5.m3u8"
-    },
-    {
-      "id": 36,
-      "title": "NIAGA TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
-    },
-    {
-      "id": 37,
-      "title": "SALAM TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
-    },
-    {
-      "id": 38,
-      "title": "SJP TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
-    },
-    {
-      "id": 39,
-      "title": "SURAU TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
-    },
-    {
-      "id": 40,
-      "title": "BIN BAZ TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
-    },
-    {
-      "id": 41,
       "title": "PUJA TV ACEH FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -636,70 +555,7 @@
       "streaming_url": "https://v6.siar.us/pujatv/live/chunks.m3u8"
     },
     {
-      "id": 42,
-      "title": "RADIO KITA TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
-    },
-    {
-      "id": 43,
-      "title": "UFA 24 HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch27.m3u8"
-    },
-    {
-      "id": 44,
-      "title": "RODJA TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"
-    },
-    {
-      "id": 45,
-      "title": "RASYAAD TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
-    },
-    {
-      "id": 46,
-      "title": "MEDS TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
-    },
-    {
-      "id": 47,
-      "title": "BINA MADANI FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
-    },
-    {
-      "id": 48,
-      "title": "ASHIIL TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch2.m3u8"
-    },
-    {
-      "id": 49,
+      "id": 33,
       "title": "ALWAFA TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -708,70 +564,7 @@
       "streaming_url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
     },
     {
-      "id": 50,
-      "title": "AL SUNNAH NABAWI FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8"
-    },
-    {
-      "id": 51,
-      "title": "AL-FURQON TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
-    },
-    {
-      "id": 52,
-      "title": "AHSAN TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
-    },
-    {
-      "id": 53,
-      "title": "WESAL TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
-    },
-    {
-      "id": 54,
-      "title": "MGI TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch25.m3u8"
-    },
-    {
-      "id": 55,
-      "title": "AL QURAN KAREEM  FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "",
-      "streaming_url": "https://edge.taghtia.com/sa/7.m3u8"
-    },
-    {
-      "id": 56,
-      "title": "IZZAH TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch7.m3u8"
-    },
-    {
-      "id": 57,
+      "id": 34,
       "title": "AL WAFA TARIM FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -780,16 +573,43 @@
       "streaming_url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
     },
     {
-      "id": 58,
-      "title": "ARTVISI AUDIO FIX",
+      "id": 35,
+      "title": "MQTV HD FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
-      "streaming_url": "https://streaming.yufid.com/hls/artvisi.m3u8"
+      "streaming_url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
     },
     {
-      "id": 59,
+      "id": 36,
+      "title": "INSPIRA TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "",
+      "streaming_url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+    },
+    {
+      "id": 37,
+      "title": "AL SUNNAH NABAWI FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "",
+      "streaming_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8"
+    },
+    {
+      "id": 38,
+      "title": "WESAL TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "",
+      "streaming_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
+    },
+    {
+      "id": 39,
       "title": "AL QURAN KAREEM  FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
@@ -798,14 +618,302 @@
       "streaming_url": "https://edge.taghtia.com/sa/7.m3u8"
     },
     {
-      "id": 60,
-      "title": "IZZAH TV FIX",
+      "id": 40,
+      "title": "ARTVISI AUDIO FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "",
+      "streaming_url": "https://streaming.yufid.com/hls/artvisi.m3u8"
+    },
+    {
+      "id": 41,
+      "title": "INSAN TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch1.m3u8"
+    },
+    {
+      "id": 42,
+      "title": "ASHIIL TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch2.m3u8"
+    },
+    {
+      "id": 43,
+      "title": "SURAU TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
+    },
+    {
+      "id": 44,
+      "title": "AHSAN TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
+    },
+    {
+      "id": 45,
+      "title": "MUADZ TV HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch5.m3u8"
+    },
+    {
+      "id": 46,
+      "title": "RASYAAD TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
+    },
+    {
+      "id": 47,
+      "title": "IZZAH TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch7.m3u8"
-    },     
+    },
+    {
+      "id": 48,
+      "title": "HIJRAH TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
+    },
+    {
+      "id": 49,
+      "title": "AL IMAN TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch9.m3u8"
+    },
+    {
+      "id": 50,
+      "title": "NIAGA TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
+    },
+    {
+      "id": 51,
+      "title": "SALAM TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
+    },
+    {
+      "id": 52,
+      "title": "LIVE MADINAH FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch13.m3u8"
+    },
+    {
+      "id": 53,
+      "title": "LIVE MAKKAH FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch14.m3u8"
+    },
+    {
+      "id": 54,
+      "title": "PULDAPII TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch15.m3u8"
+    },
+    {
+      "id": 55,
+      "title": "RADIO KITA TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
+    },
+    {
+      "id": 56,
+      "title": "SJP TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
+    },
+    {
+      "id": 57,
+      "title": "BINA MADANI FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
+    },
+    {
+      "id": 58,
+      "title": "BIN BAZ TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
+    },
+    {
+      "id": 59,
+      "title": "MEDS TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
+    },
+    {
+      "id": 60,
+      "title": "AL-FURQON TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
+    },
+    {
+      "id": 61,
+      "title": "MGI TV FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch25.m3u8"
+    },
+    {
+      "id": 62,
+      "title": "UFA 24 HD FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch27.m3u8"
+    },
+    {
+      "id": 63,
+      "title": "MUSLIM TV APA 1 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch28.m3u8"
+    },
+    {
+      "id": 64,
+      "title": "MUSLIM TV APA 2 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch44.m3u8"
+    },
+    {
+      "id": 65,
+      "title": "MUSLIM TV APA 3 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch46.m3u8"
+    },
+    {
+      "id": 66,
+      "title": "MUSLIM TV APA 4 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch53.m3u8"
+    },
+    {
+      "id": 67,
+      "title": "MUSLIM TV APA 5 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch54.m3u8"
+    },
+    {
+      "id": 68,
+      "title": "MUSLIM TV APA 6 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch55.m3u8"
+    },
+    {
+      "id": 69,
+      "title": "MUSLIM TV APA 7 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch56.m3u8"
+    },
+    {
+      "id": 70,
+      "title": "MUSLIM TV APA 8 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch58.m3u8"
+    },
+    {
+      "id": 71,
+      "title": "MUSLIM TV APA 9 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch59.m3u8"
+    },
+    {
+      "id": 72,
+      "title": "MUSLIM TV APA 10 FIX",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "description": "",
+      "category": "Local Indonesia",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+      "streaming_url": "https://h1.intechmedia.net/intech/ch62.m3u8"
+    },  
 
 
 
