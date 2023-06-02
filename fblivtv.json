@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "status": 1,
+      "status": 0,
       "redirect_url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.mitsukianimewallpaperhd",
 
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/misnatun/channels/main/privacy_policy.html",
@@ -26,7 +26,7 @@
 
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
 
       "main_ad": "applovin_max",
       "backup_ad": "applovin_discovery",
