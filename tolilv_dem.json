@@ -7093,7 +7093,7 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Premier Leaguage",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8"
     },
     {
@@ -7102,7 +7102,7 @@
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Premier Leaguage",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8"
     },
     {
