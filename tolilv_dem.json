@@ -701,7 +701,7 @@
     {
       "id": 49,
       "title": "NIAGA TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/NIAGA_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -710,7 +710,7 @@
     {
       "id": 50,
       "title": "SALAM TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/SALAM_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -737,7 +737,7 @@
     {
       "id": 53,
       "title": "PULDAPII TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/PULDAPII_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -746,7 +746,7 @@
     {
       "id": 54,
       "title": "TV SUNNAH FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/TV_SUNNAH.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -755,7 +755,7 @@
     {
       "id": 55,
       "title": "SJP TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/SJP_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -764,7 +764,7 @@
     {
       "id": 56,
       "title": "BINA MADANI FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINA_MADANI_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -773,7 +773,7 @@
     {
       "id": 57,
       "title": "BIN BAZ TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/BINBAZ_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -782,7 +782,7 @@
     {
       "id": 58,
       "title": "MEDS TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/MEDS_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -791,7 +791,7 @@
     {
       "id": 59,
       "title": "AL-FURQON TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/AL_FURQON_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -800,7 +800,7 @@
     {
       "id": 60,
       "title": "MGI TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/MGI_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -809,7 +809,7 @@
     {
       "id": 61,
       "title": "IZZAH TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/IZZAH_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
@@ -817,120 +817,75 @@
     },
     {
       "id": 62,
-      "title": "IZZAH TV 1 FIX",
+      "title": "TVRI SUMSEL FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch28.m3u8"
+      "streaming_url": "https://raw.githubusercontent.com/misnatun/channels/main/TVRI_SUMSEL.png"
     },
     {
       "id": 63,
-      "title": "INSAN TV 1 FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch44.m3u8"
-    },
-    {
-      "id": 64,
-      "title": "TVRI HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch46.m3u8"
-    },
-    {
-      "id": 65,
       "title": "RTM HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/RTM_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch53.m3u8"
     },
     {
-      "id": 66,
+      "id": 64,
       "title": "AFBTV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/AFBTV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch54.m3u8"
     },
     {
-      "id": 67,
+      "id": 65,
       "title": "GEMILANG TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/GEMILANG_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch55.m3u8"
     },
     {
-      "id": 68,
+      "id": 66,
       "title": "SAMPIT TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/SAMPIT_TV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch56.m3u8"
     },
     {
-      "id": 69,
+      "id": 67,
       "title": "BETV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/BETV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch58.m3u8"
     },
     {
-      "id": 70,
+      "id": 68,
       "title": "RBTV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/RBTV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch59.m3u8"
     },
     {
-      "id": 71,
-      "title": "TVRI 1 FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch62.m3u8"
-    },
-    {
-      "id": 72,
+      "id": 69,
       "title": "JITV HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/JITV.png",
       "description": "",
       "category": "Local Indonesia",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch65.m3u8"
-    },
-    {
-      "id": 73,
-      "title": "AFBTV 1 HD FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch81.m3u8"
-    },
-    {
-      "id": 74,
-      "title": "SAMPIT 1 TV FIX",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png",
-      "description": "",
-      "category": "Local Indonesia",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
-      "streaming_url": "https://h1.intechmedia.net/intech/ch86.m3u8"
     },
 
 
